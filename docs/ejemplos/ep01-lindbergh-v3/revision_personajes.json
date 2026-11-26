@@ -1,0 +1,219 @@
+{
+ "cambios": [
+  {
+   "vuelta": 1,
+   "id": "periodista2",
+   "campos": {
+    "ropa": "liso",
+    "vestido": "lunares",
+    "sombrero": "cloche",
+    "pelo": "melena"
+   },
+   "motivo": "Mujer de antes de 1960 sin vestido: se le asigna vestido de lunares acorde a la época y se mantiene el cloche."
+  },
+  {
+   "vuelta": 1,
+   "id": "asistente",
+   "campos": {
+    "ropa": "liso",
+    "vestido": "liso",
+    "sombrero": "pelo",
+    "pelo": "mono"
+   },
+   "motivo": "Mujer de antes de 1960 sin vestido: se cambia el traje por vestido liso y se conserva el moño bajo."
+  },
+  {
+   "vuelta": 1,
+   "id": "oficial1",
+   "campos": {
+    "sombrero": "gorra_policia",
+    "ropa": "uniforme",
+    "camisa": "#1f2d4a",
+    "pelo": "bigote_grueso"
+   },
+   "motivo": "Policía en vigilancia: debe llevar uniforme y gorra_policia; se diferencia de bruno_hauptmann, investigador y periodista1 por silueta y color."
+  },
+  {
+   "vuelta": 1,
+   "id": "oficial2",
+   "campos": {
+    "sombrero": "gorra_policia",
+    "ropa": "uniforme",
+    "camisa": "#243a5e"
+   },
+   "motivo": "Policía en vigilancia: se le asigna uniforme y gorra_policia para que se reconozca su papel."
+  },
+  {
+   "vuelta": 1,
+   "id": "john_condon",
+   "campos": {
+    "sombrero": "pelo",
+    "pelo": "entradas",
+    "ropa": "abrigo",
+    "camisa": "#6b4a2f"
+   },
+   "motivo": "Se diferencia del secuestrador cambiando el fedora por pelo con entradas y manteniendo abrigo marrón."
+  },
+  {
+   "vuelta": 1,
+   "id": "john",
+   "campos": {
+    "sombrero": "pelo",
+    "pelo": "engominado",
+    "ropa": "abrigo",
+    "camisa": "#3a2f3d"
+   },
+   "motivo": "Se diferencia del secuestrador quitando el fedora y mostrando el pelo engominado."
+  },
+  {
+   "vuelta": 1,
+   "id": "periodista1",
+   "campos": {
+    "sombrero": "fedora",
+    "camisa": "#7a6b4a",
+    "ropa": "gabardina"
+   },
+   "motivo": "Se diferencia de bruno_hauptmann manteniendo fedora y gabardina en tonos más claros y con credencial de prensa."
+  },
+  {
+   "vuelta": 1,
+   "id": "policia",
+   "campos": {
+    "sombrero": "gorra_policia",
+    "ropa": "uniforme",
+    "camisa": "#2f4570"
+   },
+   "motivo": "Se diferencia del oficial manteniendo uniforme y gorra_policia pero con tono de camisa distinto."
+  },
+  {
+   "vuelta": 1,
+   "id": "detective",
+   "campos": {
+    "sombrero": "fedora",
+    "ropa": "gabardina",
+    "camisa": "#6b5a7a",
+    "pelo": "raya_lado"
+   },
+   "motivo": "Se diferencia de bruno_hauptmann, investigador, periodista1 y oficial1 por color de gabardina y peinado."
+  },
+  {
+   "vuelta": 2,
+   "id": "periodista2",
+   "campos": {
+    "ropa": "liso",
+    "vestido": "liso"
+   },
+   "motivo": "Mujer de antes de 1960 debe llevar vestido; se añade vestido liso para evitar ambigüedad."
+  },
+  {
+   "vuelta": 2,
+   "id": "asistente",
+   "campos": {
+    "ropa": "liso",
+    "vestido": "liso"
+   },
+   "motivo": "Mujer de antes de 1960 debe llevar vestido; se añade vestido liso para evitar ambigüedad."
+  },
+  {
+   "vuelta": 2,
+   "id": "periodista1",
+   "campos": {
+    "sombrero": "gorra_plana",
+    "camisa": "#4a6b8a",
+    "accesorios": [
+     "credencial_prensa",
+     "corbata",
+     "cigarrillo"
+    ]
+   },
+   "motivo": "Se diferencia de bruno_hauptmann cambiando sombrero a gorra_plana y color de camisa a azul; se mantiene silueta baja y robusta."
+  },
+  {
+   "vuelta": 2,
+   "id": "oficial1",
+   "campos": {
+    "sombrero": "gorra_policia",
+    "camisa": "#3a5a8a",
+    "accesorios": [
+     "placa",
+     "corbata",
+     "guantes"
+    ]
+   },
+   "motivo": "Se diferencia de oficial y policia cambiando tono de uniforme a azul más claro; se mantiene gorra_policia y placa."
+  },
+  {
+   "vuelta": 2,
+   "id": "policia",
+   "campos": {
+    "sombrero": "gorra_policia",
+    "camisa": "#1a2a4a",
+    "accesorios": [
+     "placa",
+     "guantes"
+    ]
+   },
+   "motivo": "Se diferencia de oficial y oficial1 oscureciendo el uniforme; se mantiene gorra_policia y placa."
+  },
+  {
+   "vuelta": 2,
+   "id": "detective",
+   "campos": {
+    "sombrero": "fedora",
+    "camisa": "#4a3a5a",
+    "accesorios": [
+     "corbata",
+     "reloj_bolsillo",
+     "lupa"
+    ]
+   },
+   "motivo": "Se diferencia de bruno_hauptmann, investigador y periodista1 cambiando color de gabardina a morado oscuro y añadiendo lupa; se mantiene fedora y gafas."
+  },
+  {
+   "vuelta": "auto",
+   "id": "fiscal",
+   "motivo": "se quita un vestuario con ropa de otro oficio"
+  },
+  {
+   "vuelta": "auto",
+   "id": "defensor",
+   "motivo": "se quita un vestuario con ropa de otro oficio"
+  },
+  {
+   "vuelta": "auto",
+   "id": "periodista2",
+   "motivo": "mujer de su época: con vestido"
+  },
+  {
+   "vuelta": "auto",
+   "id": "asistente",
+   "motivo": "mujer de su época: con vestido"
+  },
+  {
+   "vuelta": "auto",
+   "id": "periodista2",
+   "motivo": "se diferencia de anne_morrow"
+  },
+  {
+   "vuelta": "auto",
+   "id": "oficial1",
+   "motivo": "se diferencia de oficial"
+  },
+  {
+   "vuelta": "auto",
+   "id": "policia",
+   "motivo": "se diferencia de oficial"
+  },
+  {
+   "vuelta": "auto",
+   "id": "policia",
+   "motivo": "se diferencia de oficial1"
+  },
+  {
+   "vuelta": "auto",
+   "id": "detective",
+   "motivo": "se diferencia de investigador"
+  }
+ ],
+ "pendientes": {}
+}

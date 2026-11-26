@@ -1,0 +1,1920 @@
+{
+ "titulo": "El secuestro del bebé Lindbergh",
+ "epoca": 1932,
+ "region": "Estados Unidos (Nueva Jersey, Nueva York)",
+ "fondoEpoca": "1930s United States, New Jersey countryside and New York City, Great Depression era, noir atmosphere",
+ "tono": "Policial noir, dramático, histórico, con narración pausada y silencios tensos",
+ "personajes": [
+  {
+   "id": "charles_lindbergh",
+   "nombre": "Charles Lindbergh",
+   "papel": "Aviador célebre, padre del bebé secuestrado",
+   "importancia": "principal",
+   "sexo": "h",
+   "edad": 30,
+   "clase_social": "alta",
+   "aspecto": "Hombre alto y delgado, de unos 30 años, pelo castaño claro, rostro anguloso, mirada seria y cansada. Aparenta 30 años.",
+   "vestuario": "Traje de aviador de cuero marrón, pantalones de montar, botas altas, gorro de aviador; en casa viste traje formal de los años 30, camisa y corbata.",
+   "personalidad": "Reservado, heroico, protector, atormentado por la fama. Se muestra calmado pero tenso.",
+   "comoActua": "Camina con paso firme, observa con atención, gestos contenidos; en momentos de angustia se queda inmóvil y baja la cabeza.",
+   "objetos": "A veces lleva una carta o una nota; en el avión, gafas de aviador.",
+   "expresiones": [
+    "preocupación",
+    "determinación",
+    "tristeza",
+    "ira contenida"
+   ],
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "anne_morrow",
+   "nombre": "Anne Morrow Lindbergh",
+   "papel": "Esposa de Charles, madre del bebé",
+   "importancia": "principal",
+   "sexo": "m",
+   "edad": 25,
+   "clase_social": "alta",
+   "aspecto": "Mujer elegante, de unos 25 años, pelo castaño oscuro recogido, rostro fino, ojos expresivos. Aparenta 25 años.",
+   "vestuario": "Vestidos de la época, faldas largas, blusas con cuello, sombreros pequeños; en casa usa ropa cómoda pero elegante.",
+   "personalidad": "Inteligente, educada, sensible, preocupada por la privacidad familiar.",
+   "comoActua": "Movimientos delicados, se retuerce las manos cuando está nerviosa, mira con ansiedad.",
+   "objetos": "A veces sostiene al bebé o un pañuelo.",
+   "expresiones": [
+    "preocupación",
+    "miedo",
+    "tristeza",
+    "esperanza"
+   ],
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "charles_jr",
+   "nombre": "Charles Augustus Lindbergh Jr.",
+   "papel": "Bebé secuestrado",
+   "importancia": "principal",
+   "sexo": "h",
+   "edad": 1,
+   "clase_social": "alta",
+   "aspecto": "Bebé de 20 meses, pequeño, pelo claro, rostro redondo. Aparenta 1 año.",
+   "vestuario": "Pijama infantil de la época, mantita.",
+   "personalidad": "Tranquilo, dormilón.",
+   "comoActua": "Duerme en su cuna, llora cuando lo despiertan.",
+   "objetos": "Ninguno.",
+   "expresiones": [
+    "sueño",
+    "tranquilidad",
+    "llanto",
+    "miedo"
+   ],
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "betty_gow",
+   "nombre": "Betty Gow",
+   "papel": "Niñera del bebé",
+   "importancia": "secundario",
+   "sexo": "m",
+   "edad": 28,
+   "clase_social": "media-baja",
+   "aspecto": "Mujer joven, de unos 28 años, pelo castaño, complexión media, rostro amable. Aparenta 28 años.",
+   "vestuario": "Uniforme de niñera: vestido oscuro con delantal blanco, cofia.",
+   "personalidad": "Responsable, atenta, cariñosa con el bebé; se desespera cuando descubre su ausencia.",
+   "comoActua": "Movimientos rápidos y cuidadosos, se lleva las manos a la boca al alarmarse, corre por los pasillos.",
+   "objetos": "A veces lleva una manta o un biberón.",
+   "expresiones": [
+    "alegría",
+    "preocupación",
+    "pánico",
+    "culpa"
+   ],
+   "capitulos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "secuestrador",
+   "nombre": "El desconocido (secuestrador)",
+   "papel": "Secuestrador y asesino",
+   "importancia": "principal",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "baja",
+   "aspecto": "Silueta alta y delgada, rostro no visible; se intuye pelo oscuro y complexión delgada. Aparenta 35 años.",
+   "vestuario": "Abrigo oscuro largo, sombrero de fieltro calado, guantes.",
+   "personalidad": "Meticuloso, frío, calculador.",
+   "comoActua": "Se mueve con sigilo, evita ser visto, gestos precisos.",
+   "objetos": "Escalera de madera, notas de rescate, linterna.",
+   "expresiones": [
+    "frialdad",
+    "nerviosismo",
+    "determinación",
+    "ocultamiento"
+   ],
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "periodista1",
+   "nombre": "Periodista 1",
+   "papel": "Reportero gráfico",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 30,
+   "clase_social": "media",
+   "aspecto": "Hombre bajito y regordete, pelo negro, bigote, siempre con sombrero.",
+   "vestuario": "Traje de periodista de los 30, gabardina, sombrero con tarjeta de prensa, cámara fotográfica.",
+   "personalidad": "Insistente, entusiasta.",
+   "comoActua": "Grita preguntas, se abre paso entre la multitud, dispara fotos.",
+   "objetos": "Cámara fotográfica, libreta.",
+   "expresiones": [
+    "entusiasmo",
+    "curiosidad",
+    "frustración",
+    "sorpresa"
+   ],
+   "capitulos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "periodista2",
+   "nombre": "Periodista 2",
+   "papel": "Reportero de prensa",
+   "importancia": "menor",
+   "sexo": "m",
+   "edad": 25,
+   "clase_social": "media",
+   "aspecto": "Mujer delgada, pelo rubio corto, gafas redondas.",
+   "vestuario": "Traje sastre de los 30, blusa, falda, sombrero cloche, libreta y lápiz.",
+   "personalidad": "Perspicaz, rápida.",
+   "comoActua": "Toma notas velozmente, hace preguntas directas.",
+   "objetos": "Libreta, lápiz.",
+   "expresiones": [
+    "curiosidad",
+    "concentración",
+    "sorpresa",
+    "satisfacción"
+   ],
+   "capitulos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "investigador",
+   "nombre": "Investigador policial",
+   "papel": "Detective a cargo del caso",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 45,
+   "clase_social": "media",
+   "aspecto": "Hombre de mediana edad, pelo canoso, bigote, complexión robusta.",
+   "vestuario": "Gabarina, traje, sombrero de fieltro, placa policial.",
+   "personalidad": "Metódico, observador, paciente.",
+   "comoActua": "Examina con lupa, anota en libreta, da órdenes con calma.",
+   "objetos": "Lupa, libreta, pluma.",
+   "expresiones": [
+    "concentración",
+    "preocupación",
+    "satisfacción",
+    "frustración"
+   ],
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "oficial",
+   "nombre": "Oficial de policía",
+   "papel": "Agente uniformado",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "media-baja",
+   "aspecto": "Hombre fornido, pelo castaño, rostro cuadrado.",
+   "vestuario": "Uniforme policial de los 30, placa, gorra.",
+   "personalidad": "Obediente, eficiente.",
+   "comoActua": "Se cuadra, sigue órdenes, patrulla.",
+   "objetos": "Porra, linterna.",
+   "expresiones": [
+    "seriedad",
+    "alerta",
+    "cansancio",
+    "sorpresa"
+   ],
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "john_condon",
+   "nombre": "John Francis Condon",
+   "papel": "Intermediario en el rescate",
+   "importancia": "principal",
+   "sexo": "h",
+   "edad": 72,
+   "clase_social": "media",
+   "aspecto": "Anciano de 72 años, pelo blanco, bigote blanco, complexión delgada, rostro arrugado.",
+   "vestuario": "Traje anticuado, abrigo largo, sombrero de fieltro, bastón.",
+   "personalidad": "Valiente, ingenuo, obstinado, con sentido del deber.",
+   "comoActua": "Camina despacio, habla con educación, gestos pausados.",
+   "objetos": "Maletín con dinero, cartas, bastón.",
+   "expresiones": [
+    "determinación",
+    "nerviosismo",
+    "esperanza",
+    "decepción"
+   ],
+   "capitulos": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "john",
+   "nombre": "John (el hombre del cementerio)",
+   "papel": "Contacto de los secuestradores",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "baja",
+   "aspecto": "Silueta alta y delgada, rostro oculto por sombrero y cuello del abrigo.",
+   "vestuario": "Abrigo oscuro, sombrero calado, guantes.",
+   "personalidad": "Misterioso, amenazante, evasivo.",
+   "comoActua": "Se mueve entre las sombras, habla con voz baja y firme.",
+   "objetos": "Notas, prenda infantil.",
+   "expresiones": [
+    "frialdad",
+    "desconfianza",
+    "autoridad",
+    "ocultamiento"
+   ],
+   "capitulos": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "marinero",
+   "nombre": "Marinero",
+   "papel": "Tripulante en la búsqueda del barco Nellie",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 40,
+   "clase_social": "baja",
+   "aspecto": "Hombre curtido, barba, gorra de marinero.",
+   "vestuario": "Uniforme de marinero, jersey de lana.",
+   "personalidad": "Práctico, obediente.",
+   "comoActua": "Otea el horizonte, responde con rapidez.",
+   "objetos": "Prismáticos.",
+   "expresiones": [
+    "concentración",
+    "cansancio",
+    "preocupación",
+    "alivio"
+   ],
+   "capitulos": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "trabajador",
+   "nombre": "Trabajador",
+   "papel": "Hombre que encuentra los restos",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 40,
+   "clase_social": "baja",
+   "aspecto": "Hombre rudo, ropa de trabajo, sombrero de paja.",
+   "vestuario": "Overol, camisa de manga larga, botas.",
+   "personalidad": "Trabajador, impresionable.",
+   "comoActua": "Camina por el bosque, se detiene horrorizado.",
+   "objetos": "Herramienta de trabajo.",
+   "expresiones": [
+    "horror",
+    "sorpresa",
+    "miedo",
+    "urgencia"
+   ],
+   "capitulos": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "empleado_gasolinera",
+   "nombre": "Empleado de gasolinera",
+   "papel": "Trabajador que anota la matrícula",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 25,
+   "clase_social": "baja",
+   "aspecto": "Joven delgado, pelo claro, rostro despierto.",
+   "vestuario": "Overol de mecánico, gorra.",
+   "personalidad": "Astuto, observador.",
+   "comoActua": "Atiende con rapidez, mira con desconfianza el billete.",
+   "objetos": "Trapo, llave inglesa, lápiz y papel.",
+   "expresiones": [
+    "curiosidad",
+    "sospecha",
+    "nerviosismo",
+    "satisfacción"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "cliente",
+   "nombre": "Cliente de la gasolinera",
+   "papel": "Hombre que paga con certificado de oro",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "baja",
+   "aspecto": "Hombre de mediana edad, abrigo gastado, sombrero.",
+   "vestuario": "Abrigo raído, sombrero, guantes.",
+   "personalidad": "Apresurado, evasivo.",
+   "comoActua": "Habla con prisa, evita contacto visual.",
+   "objetos": "Billete de oro.",
+   "expresiones": [
+    "prisa",
+    "nerviosismo",
+    "evasión",
+    "molestia"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "oficial1",
+   "nombre": "Oficial 1",
+   "papel": "Policía en vigilancia",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 40,
+   "clase_social": "media",
+   "aspecto": "Hombre corpulento, bigote, pelo oscuro.",
+   "vestuario": "Gabarina, sombrero, placa.",
+   "personalidad": "Cauteloso, paciente.",
+   "comoActua": "Observa desde el coche, habla en voz baja.",
+   "objetos": "Prismáticos, libreta.",
+   "expresiones": [
+    "concentración",
+    "impaciencia",
+    "alerta",
+    "satisfacción"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "oficial2",
+   "nombre": "Oficial 2",
+   "papel": "Policía en vigilancia",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "media",
+   "aspecto": "Hombre delgado, pelo rubio, rostro afilado.",
+   "vestuario": "Gabarina, sombrero, placa.",
+   "personalidad": "Decidido, impaciente.",
+   "comoActua": "Consulta notas, mira el reloj.",
+   "objetos": "Libreta, reloj de bolsillo.",
+   "expresiones": [
+    "impaciencia",
+    "decisión",
+    "preocupación",
+    "alivio"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "policia",
+   "nombre": "Policía (detención)",
+   "papel": "Agente que detiene a Hauptmann",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 30,
+   "clase_social": "media-baja",
+   "aspecto": "Hombre joven, fornido, pelo corto.",
+   "vestuario": "Uniforme policial, placa, gorra.",
+   "personalidad": "Firme, profesional.",
+   "comoActua": "Se acerca con decisión, esposa al detenido.",
+   "objetos": "Esposas.",
+   "expresiones": [
+    "seriedad",
+    "firmeza",
+    "alerta",
+    "satisfacción"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "bruno_hauptmann",
+   "nombre": "Bruno Richard Hauptmann",
+   "papel": "Sospechoso detenido, acusado de secuestro y asesinato",
+   "importancia": "principal",
+   "sexo": "h",
+   "edad": 35,
+   "clase_social": "baja",
+   "aspecto": "Hombre de 35 años, pelo castaño oscuro, complexión media, rostro anguloso, mirada esquiva. Aparenta 35 años.",
+   "vestuario": "Traje gastado, camisa sin corbata, sombrero; en el juicio viste traje y corbata.",
+   "personalidad": "Nervioso, evasivo, insistente en su inocencia.",
+   "comoActua": "Se mueve inquieto, evita mirar a los ojos, gesticula al hablar.",
+   "objetos": "A veces sostiene un pañuelo.",
+   "expresiones": [
+    "nerviosismo",
+    "miedo",
+    "ira",
+    "desesperación"
+   ],
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "experto_koehler",
+   "nombre": "Arthur Koehler",
+   "papel": "Experto en madera del Servicio Forestal",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 50,
+   "clase_social": "media",
+   "aspecto": "Hombre de mediana edad, gafas, pelo canoso, delantal de trabajo.",
+   "vestuario": "Bata de laboratorio, gafas, guantes.",
+   "personalidad": "Meticuloso, analítico, seguro.",
+   "comoActua": "Examina con lupa, toma notas, habla con precisión.",
+   "objetos": "Lupa, instrumentos de medición, muestras de madera.",
+   "expresiones": [
+    "concentración",
+    "satisfacción",
+    "seriedad",
+    "duda"
+   ],
+   "capitulos": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "fiscal",
+   "nombre": "Fiscal del caso",
+   "papel": "Acusación en el juicio",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 50,
+   "clase_social": "alta",
+   "aspecto": "Hombre alto, pelo canoso, rostro severo, gafas.",
+   "vestuario": "Traje formal, toga de abogado en el tribunal.",
+   "personalidad": "Persuasivo, incisivo, seguro.",
+   "comoActua": "Se levanta con energía, señala con el dedo, habla con vehemencia.",
+   "objetos": "Documentos, gafas.",
+   "expresiones": [
+    "determinación",
+    "ira",
+    "satisfacción",
+    "concentración"
+   ],
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "defensor",
+   "nombre": "Abogado defensor",
+   "papel": "Defensa de Hauptmann",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 45,
+   "clase_social": "alta",
+   "aspecto": "Hombre de mediana edad, pelo oscuro, bigote, rostro serio.",
+   "vestuario": "Traje formal, toga de abogado.",
+   "personalidad": "Astuto, combativo, escéptico.",
+   "comoActua": "Se inclina sobre la mesa, objeta con firmeza, habla en voz baja con su cliente.",
+   "objetos": "Documentos, pluma.",
+   "expresiones": [
+    "concentración",
+    "ira",
+    "frustración",
+    "satisfacción"
+   ],
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "juez",
+   "nombre": "Juez del tribunal",
+   "papel": "Juez presidente del juicio",
+   "importancia": "secundario",
+   "sexo": "h",
+   "edad": 60,
+   "clase_social": "alta",
+   "aspecto": "Hombre mayor, pelo blanco, rostro severo, gafas.",
+   "vestuario": "Toga negra de juez.",
+   "personalidad": "Autoritario, justo, solemne.",
+   "comoActua": "Golpea el martillo, habla con gravedad.",
+   "objetos": "Martillo, gafas.",
+   "expresiones": [
+    "seriedad",
+    "autoridad",
+    "cansancio",
+    "solemnidad"
+   ],
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "detective",
+   "nombre": "Detective (epílogo)",
+   "papel": "Detective que repasa el caso años después",
+   "importancia": "menor",
+   "sexo": "h",
+   "edad": 50,
+   "clase_social": "media",
+   "aspecto": "Hombre de mediana edad, pelo entrecano, gabardina.",
+   "vestuario": "Gabarina, sombrero, traje.",
+   "personalidad": "Reflexivo, analítico.",
+   "comoActua": "Observa la pared de evidencias, cierra una carpeta.",
+   "objetos": "Carpeta, lupa.",
+   "expresiones": [
+    "concentración",
+    "duda",
+    "seriedad",
+    "satisfacción"
+   ],
+   "capitulos": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "id": "asistente",
+   "nombre": "Asistente del detective",
+   "papel": "Ayudante en el epílogo",
+   "importancia": "menor",
+   "sexo": "m",
+   "edad": 30,
+   "clase_social": "media",
+   "aspecto": "Mujer joven, pelo recogido, gafas.",
+   "vestuario": "Traje sastre, blusa.",
+   "personalidad": "Curiosa, inquisitiva.",
+   "comoActua": "Toma notas, pregunta con interés.",
+   "objetos": "Libreta, lápiz.",
+   "expresiones": [
+    "curiosidad",
+    "concentración",
+    "duda",
+    "sorpresa"
+   ],
+   "capitulos": [
+    12,
+    13,
+    14
+   ]
+  }
+ ],
+ "lugares": [
+  {
+   "id": "mansion_lindbergh",
+   "nombre": "Mansión Lindbergh (Hopewell, Nueva Jersey)",
+   "descripcion": "Residencia colonial de dos pisos, amplia, rodeada de árboles y terrenos. Interior elegante con habitaciones iluminadas, escaleras de madera, ventanas grandes. Época: 1932.",
+   "elementos": [
+    "ventana del segundo piso",
+    "cuna",
+    "escalera de madera",
+    "nota de rescate",
+    "reloj antiguo"
+   ],
+   "gente_de_fondo": "Familia Lindbergh, niñera, policías, investigadores",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    }
+   ],
+   "motor": "mansion"
+  },
+  {
+   "id": "nueva_york_1927",
+   "nombre": "Nueva York, 1927 (calle y avión)",
+   "descripcion": "Calle concurrida de Nueva York con edificios altos, periódicos, multitud. Avión monomotor en vuelo sobre el océano Atlántico. Época: 1927.",
+   "elementos": [
+    "avión Spirit of St. Louis",
+    "periódicos",
+    "multitud",
+    "cámaras fotográficas"
+   ],
+   "gente_de_fondo": "Periodistas, transeúntes",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "ciudad"
+  },
+  {
+   "id": "habitacion_bebe",
+   "nombre": "Habitación del bebé (mansión Lindbergh)",
+   "descripcion": "Habitación infantil en el segundo piso, con cuna, ventana, juguetes, luz tenue. Época: 1932.",
+   "elementos": [
+    "cuna",
+    "ventana",
+    "juguetes",
+    "manta"
+   ],
+   "gente_de_fondo": "Nadie",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "habitacion"
+  },
+  {
+   "id": "cementerio_woodlawn",
+   "nombre": "Cementerio Woodlawn (Nueva York)",
+   "descripcion": "Cementerio grande con tumbas, mausoleos, lámparas antiguas, niebla. Época: 1932.",
+   "elementos": [
+    "tumbas",
+    "lámparas",
+    "niebla",
+    "sombras"
+   ],
+   "gente_de_fondo": "Nadie",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "niebla"
+    }
+   ],
+   "motor": "cementerio"
+  },
+  {
+   "id": "mar_martha_vineyard",
+   "nombre": "Mar cerca de Martha's Vineyard",
+   "descripcion": "Mar oscuro con barco de búsqueda, cubierta, horizonte. Época: 1932.",
+   "elementos": [
+    "barco",
+    "prismáticos",
+    "horizonte"
+   ],
+   "gente_de_fondo": "Marineros, oficiales",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "despejado"
+    }
+   ],
+   "motor": "puerto"
+  },
+  {
+   "id": "bosque_hopewell",
+   "nombre": "Bosque cercano a la propiedad Lindbergh",
+   "descripcion": "Zona boscosa con árboles, maleza, carretera cercana. Época: 1932.",
+   "elementos": [
+    "árboles",
+    "maleza",
+    "carretera",
+    "restos"
+   ],
+   "gente_de_fondo": "Trabajador, policías",
+   "momentos": [
+    {
+     "hora": "atardecer",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "bosque"
+  },
+  {
+   "id": "oficina_investigacion",
+   "nombre": "Oficina de investigación (Nueva York)",
+   "descripcion": "Oficina con pared de evidencias, mapas, fotografías, documentos, escritorios. Época: 1932-1934.",
+   "elementos": [
+    "pared de evidencias",
+    "mapas",
+    "fotografías",
+    "documentos",
+    "teléfono"
+   ],
+   "gente_de_fondo": "Investigadores, oficiales",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "oficina"
+  },
+  {
+   "id": "gasolinera",
+   "nombre": "Estación de servicio (Nueva York)",
+   "descripcion": "Gasolinera de los años 30 con surtidores antiguos, taller, coche aparcado. Época: 1934.",
+   "elementos": [
+    "surtidor",
+    "coche",
+    "billete de oro",
+    "matrícula"
+   ],
+   "gente_de_fondo": "Empleado, cliente",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    }
+   ],
+   "motor": "gasolinera"
+  },
+  {
+   "id": "casa_hauptmann",
+   "nombre": "Vivienda de Hauptmann (Bronx, Nueva York)",
+   "descripcion": "Casa modesta de dos pisos, garaje, ático. Época: 1934.",
+   "elementos": [
+    "garaje",
+    "lata de combustible",
+    "certificados de oro",
+    "tabla del ático",
+    "número de teléfono escrito"
+   ],
+   "gente_de_fondo": "Policías, vecinos",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    }
+   ],
+   "motor": "calle"
+  },
+  {
+   "id": "tribunal_flemington",
+   "nombre": "Tribunal de Flemington (Nueva Jersey)",
+   "descripcion": "Edificio judicial con sala de tribunal, banquillo, jurado, público, periodistas. Época: 1935.",
+   "elementos": [
+    "banquillo",
+    "estrado",
+    "martillo",
+    "documentos",
+    "cámaras"
+   ],
+   "gente_de_fondo": "Periodistas, público, jurado, abogados",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "tribunal"
+  },
+  {
+   "id": "prision_trenton",
+   "nombre": "Prisión Estatal de Trenton",
+   "descripcion": "Pasillo de prisión con luces frías, puertas metálicas, celda. Época: 1936.",
+   "elementos": [
+    "puerta metálica",
+    "luces frías",
+    "celda"
+   ],
+   "gente_de_fondo": "Guardias",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    }
+   ],
+   "motor": "carcel"
+  },
+  {
+   "id": "congreso_eeuu",
+   "nombre": "Congreso de Estados Unidos (Washington D.C.)",
+   "descripcion": "Sala del Congreso con representantes, documentos, periódicos. Época: 1932.",
+   "elementos": [
+    "documentos",
+    "periódicos",
+    "estrado"
+   ]
+  }
+ ],
+ "secuencias": [
+  {
+   "cap": 1,
+   "bloque": "ESCENA 01 — LA MANSIÓN LINDBERGH",
+   "lugar": "mansion_lindbergh",
+   "hora": "noche",
+   "clima": "despejado",
+   "resumen": "En una noche de marzo de 1932, la mansión Lindbergh es observada por una figura misteriosa. Dentro, el bebé Charles Jr. duerme plácidamente, ajeno al peligro que se cierne sobre él.",
+   "personajes": [
+    {
+     "id": "secuestrador",
+     "hace": "Acecha entre los árboles, con sombrero y abrigo oscuro, observando fijamente la ventana del segundo piso.",
+     "siente": "sospechoso"
+    },
+    {
+     "id": "charles_jr",
+     "hace": "Duerme tranquilamente en su cuna dentro de la habitación infantil.",
+     "siente": "dormido"
+    }
+   ],
+   "momentos_clave": [
+    "La mansión colonial emerge de la oscuridad, rodeada de árboles.",
+    "La silueta del secuestrador se recorta entre los árboles, con el rostro oculto.",
+    "La cámara se desliza por la ventana hasta la cuna donde duerme el bebé."
+   ],
+   "gente_de_fondo": "Ninguna persona visible; solo la silueta del secuestrador y el bebé.",
+   "escenarios": [
+    "exterior_mansion",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "cap": 2,
+   "bloque": "ESCENA 02 — NUEVA YORK, 1927",
+   "lugar": "nueva_york_1927",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "El avión Spirit of St. Louis despega de Nueva York y cruza el Atlántico. Se muestra el vuelo solitario de Lindbergh. Periódicos anuncian su hazaña. Charles camina por la calle y es asediado por periodistas.",
+   "personajes": [
+    {
+     "id": "charles_lindbergh",
+     "hace": "Pilota el avión durante el vuelo transatlántico; luego camina por la calle y se detiene brevemente para hablar con los periodistas.",
+     "siente": "cansado"
+    },
+    {
+     "id": "periodista1",
+     "hace": "Corre tras Charles con una cámara fotográfica, intentando tomar una foto.",
+     "siente": "nervioso"
+    },
+    {
+     "id": "periodista2",
+     "hace": "Sostiene una libreta y un lápiz, y le grita preguntas a Charles.",
+     "siente": "decidido"
+    }
+   ],
+   "momentos_clave": [
+    "El avión Stickman despega y cruza el océano en tonos azules oscuros.",
+    "Periódicos con titulares: «EL HOMBRE QUE CRUZÓ EL ATLÁNTICO».",
+    "Charles caminando mientras una multitud de periodistas lo rodea."
+   ],
+   "gente_de_fondo": "Decenas de periodistas Stickman con cámaras y libretas.",
+   "escenarios": [
+    "calle_nueva_york",
+    "aerodromo",
+    "cielo",
+    "cabina_avion",
+    "aerodromo"
+   ]
+  },
+  {
+   "cap": 2,
+   "bloque": "ESCENA 03 — EL NACIMIENTO DE CHARLES JR.",
+   "lugar": "habitacion_bebe",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "Anne sostiene al bebé Charles Jr. en una habitación iluminada. La pareja conversa sobre la atención mediática y la necesidad de privacidad. Deciden mudarse a una propiedad rural en Hopewell.",
+   "personajes": [
+    {
+     "id": "anne_morrow",
+     "hace": "Sostiene al bebé en brazos y le habla a Charles con expresión preocupada.",
+     "siente": "preocupado"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "Mira a Anne y al bebé, y responde con gesto serio.",
+     "siente": "serio"
+    },
+    {
+     "id": "charles_jr",
+     "hace": "Duerme plácidamente en brazos de Anne.",
+     "siente": "dormido"
+    }
+   ],
+   "momentos_clave": [
+    "Anne sosteniendo al bebé en una habitación luminosa.",
+    "La conversación entre Anne y Charles sobre las cámaras y la privacidad.",
+    "La mención de la propiedad rural en Hopewell como refugio."
+   ],
+   "gente_de_fondo": "Ninguna; solo la pareja y el bebé.",
+   "escenarios": [
+    "habitacion_bebe",
+    "supermercado"
+   ]
+  },
+  {
+   "cap": 3,
+   "bloque": "ESCENA 04 — PRIMERO DE MARZO DE 1932",
+   "lugar": "mansion_lindbergh",
+   "hora": "noche",
+   "clima": "despejado",
+   "resumen": "Un intruso apoya una escalera artesanal contra la fachada de la mansión Lindbergh, sube hasta la ventana de la habitación del bebé y se lleva al pequeño Charles mientras la familia cree que todo es normal.",
+   "personajes": [
+    {
+     "id": "secuestrador",
+     "hace": "carga una escalera de madera al hombro, la apoya contra la pared exterior, sube peldaño a peldaño con cuidado, forcejea con la ventana hasta abrirla y se desliza dentro de la habitación del bebé",
+     "siente": "decidido"
+    },
+    {
+     "id": "charles_jr",
+     "hace": "duerme en su cuna bajo las mantas, ajeno a la ventana que se abre y a la silueta que se acerca",
+     "siente": "dormido"
+    },
+    {
+     "id": "betty_gow",
+     "hace": "camina por el pasillo de la planta baja con una taza en la mano, se detiene a mirar el reloj de pared y sigue hacia la cocina",
+     "siente": "neutral"
+    }
+   ],
+   "momentos_clave": [
+    "El reloj marcando las 8:45 p. m. con la casa iluminada desde fuera",
+    "La silueta del desconocido transportando la escalera de madera",
+    "Primer plano de los peldaños y una pieza de madera que cruje",
+    "La ventana abriéndose sin mostrar el rostro del intruso",
+    "La cuna vacía tras la entrada del secuestrador"
+   ],
+   "gente_de_fondo": "Nadie visible en el exterior; la casa permanece en silencio",
+   "escenarios": [
+    "exterior_mansion",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "cap": 3,
+   "bloque": "ESCENA 05 — EL DESCUBRIMIENTO",
+   "lugar": "habitacion_bebe",
+   "hora": "noche",
+   "clima": "despejado",
+   "resumen": "Betty Gow descubre la cuna vacía, alerta a los Lindbergh y la familia busca desesperadamente al bebé hasta encontrar una nota de rescate en la ventana.",
+   "personajes": [
+    {
+     "id": "betty_gow",
+     "hace": "entra en la habitación, mira la cuna vacía, se agacha a mirar debajo de la cama, revisa el armario, sale corriendo por el pasillo gritando y vuelve con los padres",
+     "siente": "asustado"
+    },
+    {
+     "id": "anne_morrow",
+     "hace": "sube las escaleras corriendo en bata, se agarra al marco de la puerta de la habitación, registra las sábanas de la cuna y se lleva las manos a la boca al ver la nota",
+     "siente": "aterrado"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "aparece en el pasillo, abre puertas de habitaciones una tras otra, baja y sube escaleras, se detiene ante la ventana y arranca la nota doblada del alféizar",
+     "siente": "decidido"
+    },
+    {
+     "id": "charles_jr",
+     "hace": "no aparece en la cuna ni en ningún rincón de la habitación",
+     "siente": "dormido"
+    }
+   ],
+   "momentos_clave": [
+    "Betty Gow entrando en la habitación y observando la cuna vacía",
+    "Betty mirando debajo de la cama y gritando el nombre del niño",
+    "Charles Lindbergh leyendo la nota con el rostro tenso",
+    "Primer plano de la hoja de papel doblada sobre el alféizar de la ventana",
+    "La familia registrando pasillos y habitaciones sin encontrar al bebé"
+   ],
+   "gente_de_fondo": "Personal de servicio de la mansión que corre por los pasillos tras los gritos",
+   "escenarios": [
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "cap": 4,
+   "bloque": "ESCENA 06 — LLEGAN LOS INVESTIGADORES",
+   "lugar": "mansion_lindbergh",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "La policía de Nueva Jersey llega a la mansión Lindbergh para investigar el secuestro. Los agentes acordonan la zona y el investigador principal examina la escalera utilizada por el secuestrador, mientras discute con un oficial sobre las posibles pistas.",
+   "personajes": [
+    {
+     "id": "investigador",
+     "hace": "Examina la escalera con una lupa, se agacha para mirar de cerca las uniones y marcas, luego se incorpora y da instrucciones a los oficiales.",
+     "siente": "pensativo"
+    },
+    {
+     "id": "oficial",
+     "hace": "Sostiene una libreta y anota las observaciones del investigador, luego señala una parte de la escalera y habla con gesto de duda.",
+     "siente": "sospechoso"
+    }
+   ],
+   "momentos_clave": [
+    "Vehículos policiales de los años treinta estacionados frente a la mansión.",
+    "Agentes uniformados descendiendo de los coches y acordonando la entrada.",
+    "El investigador arrodillado junto a la escalera, examinándola con lupa.",
+    "Primer plano de la escalera de madera con marcas y uniones irregulares."
+   ],
+   "gente_de_fondo": "Varios agentes uniformados que aseguran el perímetro y otros que toman fotografías de la escalera.",
+   "escenarios": [
+    "exterior_mansion"
+   ]
+  },
+  {
+   "cap": 5,
+   "bloque": "ESCENA 07 — EL INTERMEDIARIO",
+   "lugar": "oficina_investigacion",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "John Francis Condon, un director escolar jubilado, publica un anuncio ofreciendo ayuda para negociar con los secuestradores bajo el nombre de 'Jafsie'. Recibe respuestas y cartas con instrucciones para contactar con un hombre llamado John.",
+   "personajes": [
+    {
+     "id": "john_condon",
+     "hace": "Sentado frente a un escritorio, lee el periódico y señala un anuncio con una mano; luego una carta aparece bajo la puerta, la recoge, la abre y lee en voz alta.",
+     "siente": "pensativo"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano de un periódico antiguo con un anuncio señalado por una mano estilo stickman.",
+    "Condon sentado en su escritorio, con una carta que se desliza por debajo de la puerta.",
+    "Condon leyendo la carta con expresión de sorpresa contenida."
+   ],
+   "gente_de_fondo": "Ninguna, solo Condon en su oficina.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 5,
+   "bloque": "ESCENA 08 — WOODLAWN CEMETERY",
+   "lugar": "cementerio_woodlawn",
+   "hora": "noche",
+   "clima": "niebla",
+   "resumen": "Condon se reúne con el misterioso John en el cementerio Woodlawn. Negocian y John promete una prueba de que el niño está vivo. Luego, Condon recibe una prenda infantil que la familia reconoce como del bebé.",
+   "personajes": [
+    {
+     "id": "john_condon",
+     "hace": "Camina lentamente entre las tumbas, con una lámpara antigua en la mano; conversa con John; recibe una prenda infantil y la examina.",
+     "siente": "nervioso"
+    },
+    {
+     "id": "john",
+     "hace": "Se mantiene entre las sombras, oculto; habla con Condon sin mostrar el rostro; desaparece entre las tumbas.",
+     "siente": "sospechoso"
+    }
+   ],
+   "momentos_clave": [
+    "Cementerio de noche con niebla y lámparas antiguas; dos siluetas conversan entre las tumbas.",
+    "Primer plano de la prenda infantil sobre una mesa, reconocida por la familia.",
+    "John desapareciendo entre las sombras."
+   ],
+   "gente_de_fondo": "Ninguna, solo Condon y John en el cementerio.",
+   "escenarios": [
+    "cementerio_woodlawn"
+   ]
+  },
+  {
+   "cap": 6,
+   "bloque": "ESCENA 09 — LA NEGOCIACIÓN FINAL",
+   "lugar": "oficina_investigacion",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "Condon entrega cincuenta mil dólares en certificados de oro a John como rescate; John da instrucciones sobre un barco llamado Nellie cerca de Martha's Vineyard.",
+   "personajes": [
+    {
+     "id": "john_condon",
+     "hace": "Coloca fajos de billetes y certificados de oro en un maletín abierto sobre la mesa, luego lo cierra y lo asegura.",
+     "siente": "decidido"
+    },
+    {
+     "id": "john",
+     "hace": "Acepta el maletín, lo abre brevemente para verificar el contenido y luego lo cierra con un gesto rápido.",
+     "siente": "sospechoso"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano de los certificados de oro siendo apilados en el maletín.",
+    "Condon entrega el maletín a John con expresión tensa.",
+    "John revisa el contenido del maletín con desconfianza."
+   ],
+   "gente_de_fondo": "Ninguna.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 6,
+   "bloque": "ESCENA 10 — LA BÚSQUEDA EN EL MAR",
+   "lugar": "mar_martha_vineyard",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "La policía y Charles Lindbergh buscan el barco Nellie en el mar cerca de Martha's Vineyard, pero no encuentran nada; la pista resulta falsa.",
+   "personajes": [
+    {
+     "id": "oficial",
+     "hace": "Habla por radio con otros barcos, escudriña el horizonte con binoculares y da órdenes a la tripulación.",
+     "siente": "preocupado"
+    },
+    {
+     "id": "marinero",
+     "hace": "Revisa la cubierta, ajusta las velas y mira a través de un catalejo.",
+     "siente": "cansado"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "Permanece en la proa, con las manos en los bolsillos, mirando fijamente el horizonte.",
+     "siente": "triste"
+    }
+   ],
+   "momentos_clave": [
+    "El barco Stickman navegando sobre un mar oscuro y agitado.",
+    "Charles Lindbergh observando el horizonte con expresión desolada.",
+    "El oficial negando con la cabeza tras recibir una respuesta por radio."
+   ],
+   "gente_de_fondo": "Otros marineros en la cubierta y barcos de búsqueda a lo lejos.",
+   "escenarios": [
+    "puerto_martha_vineyard"
+   ]
+  },
+  {
+   "cap": 7,
+   "bloque": "ESCENA 11 — DOCE DE MAYO DE 1932",
+   "lugar": "bosque_hopewell",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "Un trabajador encuentra los restos del hijo de Lindbergh en una zona boscosa. La policía acordona el área. Charles Lindbergh identifica el cuerpo. Anne recibe la noticia en su habitación.",
+   "personajes": [
+    {
+     "id": "trabajador",
+     "hace": "Camina junto a la carretera, se detiene de golpe, retrocede horrorizado y grita pidiendo ayuda.",
+     "siente": "aterrado"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "Llega al lugar, observa los restos con gesto grave, asiente lentamente confirmando la identificación.",
+     "siente": "triste"
+    },
+    {
+     "id": "anne_morrow",
+     "hace": "Sentada en una habitación oscura, levanta la vista esperanzada cuando Charles entra, luego baja la cabeza y rompe a llorar.",
+     "siente": "llorando"
+    },
+    {
+     "id": "investigador",
+     "hace": "Supervisa el acordonamiento del área, toma notas en una libreta y da instrucciones a los agentes.",
+     "siente": "serio"
+    },
+    {
+     "id": "oficial",
+     "hace": "Coloca cinta policial alrededor de la escena y aleja a los curiosos.",
+     "siente": "decidido"
+    }
+   ],
+   "momentos_clave": [
+    "El trabajador retrocede horrorizado al descubrir el cuerpo parcialmente enterrado.",
+    "Vehículos policiales y agentes delimitando el área boscosa.",
+    "Charles Lindbergh inclinado, identificando los restos de su hijo.",
+    "Anne sentada en la penumbra, con Charles a su lado bajando la cabeza.",
+    "Primer plano de Anne rompiendo en llanto."
+   ],
+   "gente_de_fondo": "Agentes uniformados y personal forense trabajando en la escena.",
+   "escenarios": [
+    "bosque_hopewell",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "cap": 8,
+   "bloque": "ESCENA 12 — LA INVESTIGACIÓN SE EXTIENDE",
+   "lugar": "oficina_investigacion",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "La investigación del secuestro se amplía con miles de pistas, muchas falsas. Los investigadores rastrean los certificados de oro del rescate y encuentran una pista decisiva en agosto y septiembre de 1934.",
+   "personajes": [
+    {
+     "id": "investigador",
+     "hace": "Coloca pequeños marcadores en un mapa de Nueva York, anota en una libreta y revisa documentos sobre certificados de oro.",
+     "siente": "decidido"
+    },
+    {
+     "id": "oficial",
+     "hace": "Sostiene una lista de pistas, señala el mapa y toma notas mientras habla con el investigador.",
+     "siente": "pensativo"
+    }
+   ],
+   "momentos_clave": [
+    "Pared de investigación cubierta de fotografías, mapas y notas",
+    "Investigador colocando marcadores en el mapa de Nueva York",
+    "Primer plano de certificados de oro con números de serie"
+   ],
+   "gente_de_fondo": "Varios agentes y oficinistas trabajando en escritorios, teléfonos sonando y máquinas de escribir.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 9,
+   "bloque": "ESCENA 13 — UNA ESTACIÓN DE SERVICIO",
+   "lugar": "gasolinera",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "Un empleado de una estación de servicio recibe un certificado de oro de diez dólares de un cliente y, sospechando, anota la matrícula del automóvil antes de que se marche. La información llega a las autoridades y la matrícula conduce a Bruno Richard Hauptmann.",
+   "personajes": [
+    {
+     "id": "empleado_gasolinera",
+     "hace": "Examina el billete con atención, lo sostiene contra la luz, frunce el ceño, luego toma un lápiz y anota la matrícula en un papel mientras el coche se aleja.",
+     "siente": "sospechoso"
+    },
+    {
+     "id": "cliente",
+     "hace": "Paga con un certificado de oro, mira impaciente su reloj, se sube al coche y arranca rápidamente.",
+     "siente": "nervioso"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano del certificado de oro de diez dólares en manos del empleado.",
+    "El empleado anotando la matrícula en un papel mientras el coche se marcha.",
+    "El rostro del empleado con expresión de sospecha."
+   ],
+   "gente_de_fondo": "Ninguna persona adicional en la estación.",
+   "escenarios": [
+    "gasolinera"
+   ]
+  },
+  {
+   "cap": 9,
+   "bloque": "ESCENA 14 — LA VIGILANCIA",
+   "lugar": "casa_hauptmann",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "Dos policías vigilan la vivienda de Hauptmann desde un automóvil estacionado. Confirman que la matrícula coincide y que tienen suficientes datos para actuar. El 19 de septiembre de 1934, Hauptmann sale de su casa y es detenido por varios agentes.",
+   "personajes": [
+    {
+     "id": "oficial1",
+     "hace": "Mira a través de unos prismáticos hacia la casa, luego consulta una libreta y habla por radio.",
+     "siente": "pensativo"
+    },
+    {
+     "id": "oficial2",
+     "hace": "Sostiene una fotografía y la compara con la casa, asiente y da instrucciones por radio.",
+     "siente": "decidido"
+    },
+    {
+     "id": "bruno_hauptmann",
+     "hace": "Sale de su vivienda, cierra la puerta, y de repente se ve rodeado por agentes que le gritan. Levanta las manos sorprendido.",
+     "siente": "sorpresa"
+    },
+    {
+     "id": "policia",
+     "hace": "Apunta a Hauptmann con su arma y le ordena que se detenga, luego lo esposa.",
+     "siente": "serio"
+    }
+   ],
+   "momentos_clave": [
+    "Los dos policías en el automóvil observando la casa.",
+    "Hauptmann saliendo de su casa y siendo rodeado por agentes.",
+    "La expresión de sorpresa de Hauptmann al ser detenido."
+   ],
+   "gente_de_fondo": "Vecinos curiosos que se asoman desde otras casas.",
+   "escenarios": [
+    "casa_hauptmann"
+   ]
+  },
+  {
+   "cap": 10,
+   "bloque": "ESCENA 15 — EL GARAJE",
+   "lugar": "casa_hauptmann",
+   "hora": "noche",
+   "clima": "despejado",
+   "resumen": "Los agentes registran el garaje de Hauptmann y encuentran certificados de oro escondidos en una lata de combustible, vinculados al rescate.",
+   "personajes": [
+    {
+     "id": "oficial",
+     "hace": "Apunta con una linterna hacia una lata metálica y la abre; luego extrae certificados de oro y los muestra.",
+     "siente": "sorpresa"
+    },
+    {
+     "id": "investigador",
+     "hace": "Se acerca a la lata, examina los certificados y da instrucciones a los agentes.",
+     "siente": "decidido"
+    }
+   ],
+   "momentos_clave": [
+    "Linterna iluminando la lata metálica en el garaje oscuro.",
+    "Oficial sosteniendo un puñado de certificados de oro.",
+    "Investigador observando los números de serie con atención."
+   ],
+   "gente_de_fondo": "Otros agentes uniformados registrando el garaje.",
+   "escenarios": [
+    "casa_hauptmann"
+   ]
+  },
+  {
+   "cap": 10,
+   "bloque": "ESCENA 16 — EL ANÁLISIS DE LA MADERA",
+   "lugar": "oficina_investigacion",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "El experto en madera Arthur Koehler examina dos piezas de madera bajo una lámpara y explica sus hallazgos al investigador.",
+   "personajes": [
+    {
+     "id": "experto_koehler",
+     "hace": "Observa las piezas de madera con una lupa, las compara y señala marcas con un puntero.",
+     "siente": "pensativo"
+    },
+    {
+     "id": "investigador",
+     "hace": "Toma notas en una libreta y escucha atentamente al experto.",
+     "siente": "serio"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano de las dos piezas de madera bajo la luz de una lámpara.",
+    "El experto señalando una marca concreta en la madera.",
+    "El investigador anotando en su libreta."
+   ],
+   "gente_de_fondo": "Ninguno.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 10,
+   "bloque": "ESCENA 17 — LAS CARTAS Y LA ESCRITURA",
+   "lugar": "oficina_investigacion",
+   "hora": "dia",
+   "clima": "despejado",
+   "resumen": "Los investigadores comparan las cartas de rescate con la escritura de Hauptmann y encuentran el nombre y teléfono de John Condon en su vivienda; Hauptmann niega saber nada.",
+   "personajes": [
+    {
+     "id": "investigador",
+     "hace": "Coloca las cartas sobre la mesa, las compara con las muestras de escritura y luego interroga a Hauptmann mostrándole el papel con el número telefónico.",
+     "siente": "sospechoso"
+    },
+    {
+     "id": "bruno_hauptmann",
+     "hace": "Niega con la cabeza y evita mirar directamente a los ojos del investigador.",
+     "siente": "nervioso"
+    }
+   ],
+   "momentos_clave": [
+    "Cartas de rescate y muestras de escritura extendidas sobre la mesa.",
+    "Primer plano del nombre y número telefónico de John Condon escrito en un papel.",
+    "Rostro de Hauptmann negando mientras el investigador lo observa fijamente."
+   ],
+   "gente_de_fondo": "Otros agentes revisando documentos al fondo.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 11,
+   "bloque": "ESCENA 18 — FLEMINGTON, NUEVA JERSEY",
+   "lugar": "tribunal_flemington",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "Comienza el juicio contra Bruno Richard Hauptmann el 3 de enero de 1935 en Flemington, que se convierte en el centro de atención internacional. Charles y Anne Lindbergh comparecen como testigos, John Condon relata sus encuentros con el hombre que recibió el dinero y los especialistas presentan sus análisis. La fiscalía busca demostrar la culpabilidad de Hauptmann mientras la defensa intenta sembrar duda razonable en el jurado.",
+   "personajes": [
+    {
+     "id": "charles_lindbergh",
+     "hace": "camina hacia el estrado con paso firme, se sienta y responde las preguntas mirando al fiscal",
+     "siente": "serio"
+    },
+    {
+     "id": "anne_morrow",
+     "hace": "espera su turno sentada en un banco, con las manos entrelazadas sobre el regazo, y luego declara con voz contenida",
+     "siente": "triste"
+    },
+    {
+     "id": "john_condon",
+     "hace": "se levanta y gesticula al recordar sus encuentros con el hombre del dinero, señalando con el dedo hacia el banquillo",
+     "siente": "nervioso"
+    },
+    {
+     "id": "fiscal",
+     "hace": "se pone de pie, ordena sus papeles sobre la mesa y presenta los certificados de oro ante el jurado",
+     "siente": "decidido"
+    },
+    {
+     "id": "defensor",
+     "hace": "toma notas rápidamente y se inclina hacia su cliente para susurrarle algo al oído",
+     "siente": "pensativo"
+    },
+    {
+     "id": "juez",
+     "hace": "golpea suavemente el martillo y pide orden en la sala mientras observa a ambos abogados",
+     "siente": "serio"
+    },
+    {
+     "id": "bruno_hauptmann",
+     "hace": "permanece sentado en el banquillo, con las manos esposadas sobre el regazo, mirando al frente sin expresión",
+     "siente": "neutral"
+    },
+    {
+     "id": "periodista1",
+     "hace": "dispara su cámara con flash desde la primera fila, capturando cada momento del juicio",
+     "siente": "nervioso"
+    },
+    {
+     "id": "periodista2",
+     "hace": "escribe frenéticamente en su libreta los testimonios y las reacciones de los presentes",
+     "siente": "pensativo"
+    }
+   ],
+   "momentos_clave": [
+    "La multitud de periodistas y curiosos agolpados frente al edificio judicial",
+    "Charles Lindbergh prestando declaración en el estrado",
+    "John Condon señalando a Hauptmann al recordar los encuentros",
+    "El fiscal mostrando los certificados de oro al jurado"
+   ],
+   "gente_de_fondo": "Fotógrafos, reporteros de distintos países, curiosos y agentes uniformados que custodian la entrada",
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "cap": 11,
+   "bloque": "ESCENA 19 — EL INTERROGATORIO",
+   "lugar": "tribunal_flemington",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "El fiscal interroga a Hauptmann sobre los certificados de oro encontrados en su propiedad y el número telefónico de John Condon hallado en su vivienda. Hauptmann niega su culpabilidad y la defensa objeta la línea de preguntas. El juez interviene para mantener el orden y el interrogatorio continúa bajo una enorme presión pública.",
+   "personajes": [
+    {
+     "id": "fiscal",
+     "hace": "se acerca al banquillo con los certificados en la mano y los muestra uno a uno frente al rostro de Hauptmann",
+     "siente": "decidido"
+    },
+    {
+     "id": "bruno_hauptmann",
+     "hace": "niega con la cabeza repetidamente, se seca el sudor de la frente con un pañuelo y responde con voz temblorosa",
+     "siente": "nervioso"
+    },
+    {
+     "id": "defensor",
+     "hace": "se pone de pie de golpe y golpea la mesa con la palma de la mano al grito de '¡Objeción!'",
+     "siente": "enojado"
+    },
+    {
+     "id": "juez",
+     "hace": "levanta la mano para calmar los ánimos y señala al fiscal para que continúe",
+     "siente": "serio"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "observa el interrogatorio desde la primera fila, con el ceño fruncido y los puños apretados",
+     "siente": "preocupado"
+    },
+    {
+     "id": "anne_morrow",
+     "hace": "baja la mirada y juguetea con un pañuelo entre los dedos mientras escucha las preguntas",
+     "siente": "triste"
+    },
+    {
+     "id": "periodista1",
+     "hace": "enfoca su cámara al rostro de Hauptmann y dispara el flash justo cuando este responde",
+     "siente": "sorpresa"
+    },
+    {
+     "id": "periodista2",
+     "hace": "anota cada palabra del interrogatorio en su libreta, subrayando las respuestas clave",
+     "siente": "pensativo"
+    }
+   ],
+   "momentos_clave": [
+    "El fiscal mostrando los certificados de oro frente a Hauptmann",
+    "Hauptmann secándose el sudor y negando con la cabeza",
+    "La objeción del defensor golpeando la mesa",
+    "El juez imponiendo orden en la sala"
+   ],
+   "gente_de_fondo": "Miembros del jurado tomando notas, agentes uniformados junto a las puertas y público expectante en las gradas",
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "cap": 11,
+   "bloque": "ESCENA 20 — EL VEREDICTO",
+   "lugar": "tribunal_flemington",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "Tras cinco semanas de juicio, el 13 de febrero de 1935 el jurado anuncia su veredicto: Bruno Richard Hauptmann es declarado culpable de asesinato en primer grado y sentenciado a muerte. Hauptmann insiste en su inocencia mientras la defensa anuncia que apelará, aunque las apelaciones no cambiarán el resultado.",
+   "personajes": [
+    {
+     "id": "juez",
+     "hace": "recibe el veredicto del jurado, lo lee en voz alta y golpea el martillo para sellar la sentencia",
+     "siente": "serio"
+    },
+    {
+     "id": "bruno_hauptmann",
+     "hace": "se pone de pie de un salto y grita su inocencia mientras los agentes lo sujetan por los brazos",
+     "siente": "gritando"
+    },
+    {
+     "id": "defensor",
+     "hace": "cierra su carpeta con gesto de resignación y anuncia en voz baja que apelará la sentencia",
+     "siente": "triste"
+    },
+    {
+     "id": "fiscal",
+     "hace": "asiente con satisfacción y recoge sus documentos de la mesa",
+     "siente": "alivio"
+    },
+    {
+     "id": "charles_lindbergh",
+     "hace": "permanece sentado, inmóvil, con la mirada fija en el banquillo de los acusados",
+     "siente": "neutral"
+    },
+    {
+     "id": "anne_morrow",
+     "hace": "se lleva una mano a la boca y contiene las lágrimas mientras escucha el veredicto",
+     "siente": "llorando"
+    },
+    {
+     "id": "periodista1",
+     "hace": "captura el primer plano del rostro de Hauptmann en el momento del veredicto",
+     "siente": "sorpresa"
+    },
+    {
+     "id": "periodista2",
+     "hace": "corre hacia la puerta para transmitir la noticia mientras garabatea titulares en su libreta",
+     "siente": "nervioso"
+    }
+   ],
+   "momentos_clave": [
+    "El jurado entrando en la sala y todos los presentes quedando inmóviles",
+    "El juez leyendo el veredicto de culpabilidad",
+    "Primer plano del rostro de Hauptmann gritando 'Soy inocente'",
+    "Anne Lindbergh conteniendo las lágrimas"
+   ],
+   "gente_de_fondo": "Miembros del jurado, agentes uniformados que rodean al acusado, público en pie y fotógrafos apostados en la puerta",
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "cap": 12,
+   "bloque": "ESCENA 21 — PRISIÓN ESTATAL DE TRENTON",
+   "lugar": "prision_trenton",
+   "hora": "noche",
+   "clima": "nublado",
+   "resumen": "Se narra la ejecución de Hauptmann y las secuelas del caso, con la defensa insistiendo en su inocencia y el sistema judicial manteniendo la sentencia.",
+   "personajes": [
+    {
+     "id": "bruno_hauptmann",
+     "hace": "Camina lentamente por el pasillo de la prisión, esposado y flanqueado por guardias, con la mirada al frente y expresión resignada.",
+     "siente": "serio"
+    },
+    {
+     "id": "oficial",
+     "hace": "Abre la puerta metálica de la cámara de ejecución y hace una seña a los guardias para que introduzcan al condenado.",
+     "siente": "neutral"
+    },
+    {
+     "id": "defensor",
+     "hace": "Revisa unos documentos legales en una mesa cercana, negando con la cabeza mientras hojea los papeles.",
+     "siente": "preocupado"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano de las manos esposadas de Hauptmann.",
+    "La puerta metálica cerrándose con un golpe seco.",
+    "La silla eléctrica al fondo del pasillo, iluminada por una luz fría."
+   ],
+   "gente_de_fondo": "Guardias de la prisión y testigos de la ejecución.",
+   "escenarios": [
+    "prision_trenton"
+   ]
+  },
+  {
+   "cap": 13,
+   "bloque": "ESCENA 22 — LAS DUDAS QUE SOBREVIVIERON",
+   "lugar": "oficina_investigacion",
+   "hora": "noche",
+   "clima": "despejado",
+   "resumen": "Un detective y su asistente repasan la pared de evidencias del caso Lindbergh, discutiendo las dudas que persisten sobre la culpabilidad exclusiva de Hauptmann.",
+   "personajes": [
+    {
+     "id": "detective",
+     "hace": "De pie frente a la pared de evidencias, señala con el dedo las fotografías de Hauptmann, la escalera y los certificados de oro mientras habla.",
+     "siente": "pensativo"
+    },
+    {
+     "id": "asistente",
+     "hace": "Toma notas en una libreta y mira alternativamente al detective y a la pared, con expresión inquisitiva.",
+     "siente": "confundido"
+    }
+   ],
+   "momentos_clave": [
+    "Primer plano de la pared oscura cubierta de fotografías y documentos conectados con hilos rojos.",
+    "El detective señala la foto de Hauptmann y luego la reproducción de la escalera.",
+    "El asistente levanta la vista de su libreta y pregunta con escepticismo.",
+    "El detective se gira hacia su asistente con mirada seria y reflexiva."
+   ],
+   "gente_de_fondo": "Ninguna, solo los dos personajes en la oficina.",
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "cap": 14,
+   "bloque": "ESCENA 23 — WASHINGTON D. C.",
+   "lugar": "congreso_eeuu",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "En el Congreso de Estados Unidos se debate y aprueba la Ley Lindbergh de 1932, que permite la intervención federal en secuestros con traslado entre estados, impulsada por el caso Lindbergh y la necesidad de coordinación y pruebas científicas.",
+   "personajes": [
+    {
+     "id": "fiscal",
+     "hace": "De pie ante una tribuna, sostiene un ejemplar del proyecto de ley y lo golpea suavemente con la mano mientras habla a los representantes",
+     "siente": "decidido"
+    },
+    {
+     "id": "investigador",
+     "hace": "Sentado en una silla lateral, hojea un expediente con fotografías y anota en su libreta los puntos sobre coordinación interestatal",
+     "siente": "pensativo"
+    },
+    {
+     "id": "periodista2",
+     "hace": "Toma notas rápidas en un bloc de espiral y levanta la mano para preguntar, con la pluma lista",
+     "siente": "nervioso"
+    },
+    {
+     "id": "periodista1",
+     "hace": "Dispara fotos con flash desde el pasillo lateral, ajustando el enfoque hacia la tribuna",
+     "siente": "neutral"
+    }
+   ],
+   "momentos_clave": [
+    "El fiscal golpea el proyecto de ley sobre la tribuna mientras los representantes escuchan",
+    "Primer plano de un periódico con el titular sobre la Ley Lindbergh",
+    "El investigador subraya con lápiz 'traslado entre estados' en su expediente",
+    "El flash de la cámara ilumina el hemiciclo"
+   ],
+   "gente_de_fondo": "Representantes sentados en bancas, asesores con carpetas, ujieres del Congreso y algunos curiosos en la galería",
+   "escenarios": [
+    "congreso_eeuu"
+   ]
+  },
+  {
+   "cap": 15,
+   "bloque": "ESCENA 24 — LA MANSIÓN EN LA ACTUALIDAD",
+   "lugar": "mansion_lindbergh",
+   "hora": "dia",
+   "clima": "nublado",
+   "resumen": "La antigua mansión Lindbergh se muestra en tonos grises mientras la cámara se aleja. El narrador reflexiona sobre el paso del tiempo y la tragedia. Se muestran las piezas de evidencia una a una. El detective Stickman cierra una carpeta con la palabra LINDBERGH y comenta que el caso está cerrado por la justicia pero la historia seguirá siendo estudiada. El narrador invita a la audiencia a dar su opinión y se suscribe al canal, anunciando el próximo episodio.",
+   "personajes": [
+    {
+     "id": "detective",
+     "hace": "Cierra una carpeta que dice LINDBERGH y la deja sobre la mesa.",
+     "siente": "pensativo"
+    }
+   ],
+   "momentos_clave": [
+    "La mansión Lindbergh en tonos grises, vista desde lejos.",
+    "Las piezas de evidencia aparecen una por una: escalera de madera, nota de rescate, billetes, etc.",
+    "El detective Stickman cierra la carpeta LINDBERGH."
+   ],
+   "gente_de_fondo": "Ninguna.",
+   "escenarios": [
+    "exterior_mansion"
+   ]
+  }
+ ]
+}

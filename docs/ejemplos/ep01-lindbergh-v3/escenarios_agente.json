@@ -1,0 +1,586 @@
+{
+ "escenarios": [
+  {
+   "id": "exterior_mansion",
+   "nombre": "Mansión Lindbergh (exterior)",
+   "motor": "mansion",
+   "descripcion": "Residencia colonial de dos pisos en Hopewell, Nueva Jersey, rodeada de árboles y amplios jardines. Fachada elegante con ventanas iluminadas.",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [],
+   "utileria": [
+    "arbol",
+    "farola",
+    "seto",
+    "auto"
+   ]
+  },
+  {
+   "id": "habitacion_bebe",
+   "nombre": "Habitación del bebé",
+   "motor": "habitacion",
+   "descripcion": "Cuarto infantil en el segundo piso de la mansión, con cuna, ventana con postigos, juguetes y luz tenue.",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    }
+   ],
+   "gente": [],
+   "utileria": [
+    "lampara",
+    "arbol"
+   ]
+  },
+  {
+   "id": "calle_nueva_york",
+   "nombre": "Calle de Nueva York (1927)",
+   "motor": "calle",
+   "descripcion": "Concurrida calle de los años 20 con edificios altos, periódicos, multitud y autos antiguos.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 20,
+     "accion": "marchar"
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "accion": "parado"
+    }
+   ],
+   "utileria": [
+    "farola",
+    "auto",
+    "kiosco",
+    "buzon"
+   ]
+  },
+  {
+   "id": "aerodromo",
+   "nombre": "Aeródromo",
+   "motor": "aerodromo",
+   "descripcion": "Pista de aterrizaje con hangares y manga de viento, lugar de despegue y aterrizaje del Spirit of St. Louis.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "publico",
+     "cantidad": 15,
+     "accion": "parado"
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "accion": "parado"
+    }
+   ],
+   "utileria": [
+    "valla",
+    "barril",
+    "cajas",
+    "arbol"
+   ]
+  },
+  {
+   "id": "cielo",
+   "nombre": "Cielo en vuelo",
+   "motor": "cielo",
+   "descripcion": "Pleno vuelo entre nubes sobre el océano Atlántico, sin suelo visible.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [],
+   "utileria": []
+  },
+  {
+   "id": "cabina_avion",
+   "nombre": "Cabina del avión",
+   "motor": "cabina",
+   "descripcion": "Interior de la cabina del Spirit of St. Louis: tablero, ventanillas y asiento del piloto.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [],
+   "utileria": []
+  },
+  {
+   "id": "cementerio_woodlawn",
+   "nombre": "Cementerio Woodlawn",
+   "motor": "cementerio",
+   "descripcion": "Cementerio grande con tumbas, mausoleos, lámparas antiguas y niebla.",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "niebla"
+    }
+   ],
+   "gente": [],
+   "utileria": [
+    "farola",
+    "arbol",
+    "valla",
+    "lampara"
+   ]
+  },
+  {
+   "id": "puerto_martha_vineyard",
+   "nombre": "Mar cerca de Martha's Vineyard",
+   "motor": "puerto",
+   "descripcion": "Mar oscuro con barco de búsqueda, cubierta y horizonte.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    },
+    {
+     "hora": "atardecer",
+     "clima": "despejado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "guardias",
+     "cantidad": 5,
+     "accion": "marchar"
+    }
+   ],
+   "utileria": [
+    "barril",
+    "cajas",
+    "farola",
+    "valla"
+   ]
+  },
+  {
+   "id": "bosque_hopewell",
+   "nombre": "Bosque cercano a Hopewell",
+   "motor": "bosque",
+   "descripcion": "Zona boscosa con árboles, maleza y carretera cercana.",
+   "momentos": [
+    {
+     "hora": "atardecer",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "guardias",
+     "cantidad": 8,
+     "accion": "marchar"
+    }
+   ],
+   "utileria": [
+    "pino",
+    "arbusto",
+    "valla",
+    "farola"
+   ]
+  },
+  {
+   "id": "oficina_investigacion",
+   "nombre": "Oficina de investigación",
+   "motor": "oficina",
+   "descripcion": "Oficina con pared de evidencias, mapas, fotografías, documentos y escritorios.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    },
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "guardias",
+     "cantidad": 3,
+     "accion": "parado"
+    }
+   ],
+   "utileria": [
+    "lampara",
+    "banca",
+    "cajas",
+    "arbol"
+   ]
+  },
+  {
+   "id": "gasolinera",
+   "nombre": "Estación de servicio",
+   "motor": "gasolinera",
+   "descripcion": "Gasolinera de los años 30 con surtidores antiguos, taller y coche aparcado.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    }
+   ],
+   "gente": [],
+   "utileria": [
+    "auto",
+    "barril",
+    "cajas",
+    "farola"
+   ]
+  },
+  {
+   "id": "casa_hauptmann",
+   "nombre": "Vivienda de Hauptmann",
+   "motor": "calle",
+   "descripcion": "Casa modesta de dos pisos en el Bronx, con garaje y ático.",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    },
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    },
+    {
+     "hora": "noche",
+     "clima": "despejado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 5,
+     "accion": "parado"
+    },
+    {
+     "tipo": "guardias",
+     "cantidad": 4,
+     "accion": "marchar"
+    }
+   ],
+   "utileria": [
+    "auto",
+    "farola",
+    "buzon",
+    "seto"
+   ]
+  },
+  {
+   "id": "tribunal_flemington",
+   "nombre": "Tribunal de Flemington",
+   "motor": "tribunal",
+   "descripcion": "Edificio judicial con sala de tribunal, banquillo, jurado, público y periodistas.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "despejado"
+    },
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "prensa",
+     "cantidad": 15,
+     "accion": "parado"
+    },
+    {
+     "tipo": "publico",
+     "cantidad": 30,
+     "accion": "parado"
+    },
+    {
+     "tipo": "guardias",
+     "cantidad": 6,
+     "accion": "marchar"
+    }
+   ],
+   "utileria": [
+    "banca",
+    "lampara",
+    "valla",
+    "arbol"
+   ]
+  },
+  {
+   "id": "prision_trenton",
+   "nombre": "Prisión Estatal de Trenton",
+   "motor": "carcel",
+   "descripcion": "Pasillo de prisión con luces frías, puertas metálicas y celda.",
+   "momentos": [
+    {
+     "hora": "noche",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "guardias",
+     "cantidad": 6,
+     "accion": "marchar"
+    }
+   ],
+   "utileria": [
+    "lampara",
+    "banca",
+    "valla",
+    "cajas"
+   ]
+  },
+  {
+   "id": "congreso_eeuu",
+   "nombre": "Congreso de Estados Unidos",
+   "motor": "tribunal",
+   "descripcion": "Sala del Congreso con representantes, documentos y periódicos.",
+   "momentos": [
+    {
+     "hora": "dia",
+     "clima": "nublado"
+    }
+   ],
+   "gente": [
+    {
+     "tipo": "publico",
+     "cantidad": 40,
+     "accion": "parado"
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "accion": "parado"
+    }
+   ],
+   "utileria": [
+    "banca",
+    "lampara",
+    "valla",
+    "arbol"
+   ]
+  }
+ ],
+ "secuencias": [
+  {
+   "i": 0,
+   "escenarios": [
+    "exterior_mansion",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "i": 1,
+   "escenarios": [
+    "calle_nueva_york",
+    "aerodromo",
+    "cielo",
+    "cabina_avion",
+    "calle_nueva_york"
+   ]
+  },
+  {
+   "i": 2,
+   "escenarios": [
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "i": 3,
+   "escenarios": [
+    "exterior_mansion",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "i": 4,
+   "escenarios": [
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "i": 5,
+   "escenarios": [
+    "exterior_mansion"
+   ]
+  },
+  {
+   "i": 6,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 7,
+   "escenarios": [
+    "cementerio_woodlawn"
+   ]
+  },
+  {
+   "i": 8,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 9,
+   "escenarios": [
+    "puerto_martha_vineyard"
+   ]
+  },
+  {
+   "i": 10,
+   "escenarios": [
+    "bosque_hopewell",
+    "habitacion_bebe"
+   ]
+  },
+  {
+   "i": 11,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 12,
+   "escenarios": [
+    "gasolinera"
+   ]
+  },
+  {
+   "i": 13,
+   "escenarios": [
+    "casa_hauptmann"
+   ]
+  },
+  {
+   "i": 14,
+   "escenarios": [
+    "casa_hauptmann"
+   ]
+  },
+  {
+   "i": 15,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 16,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 17,
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "i": 18,
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "i": 19,
+   "escenarios": [
+    "tribunal_flemington"
+   ]
+  },
+  {
+   "i": 20,
+   "escenarios": [
+    "prision_trenton"
+   ]
+  },
+  {
+   "i": 21,
+   "escenarios": [
+    "oficina_investigacion"
+   ]
+  },
+  {
+   "i": 22,
+   "escenarios": [
+    "congreso_eeuu"
+   ]
+  },
+  {
+   "i": 23,
+   "escenarios": [
+    "exterior_mansion"
+   ]
+  }
+ ]
+}

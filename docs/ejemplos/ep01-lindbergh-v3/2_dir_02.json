@@ -1,0 +1,1089 @@
+{
+ "escenas": [
+  {
+   "narracion": "Para comprender por qué este secuestro provocó semejante conmoción, debemos retroceder cinco años.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "aerodromo",
+    "lugar": "aerodromo",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "despega",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 15,
+     "x": 0,
+     "z": -9,
+     "ancho": 20,
+     "fondo": 6,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "paneo_der",
+    "plano": "general",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "En 1927, un joven piloto llamado Charles Lindbergh realizó una hazaña que lo convirtió en una celebridad mundial.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "cielo",
+    "lugar": "cielo",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "vuela",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "seguimiento",
+    "plano": "general",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": "1927"
+  },
+  {
+   "narracion": "El 20 de mayo despegó desde Nueva York a bordo de un avión monomotor llamado Spirit of St. Louis.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "cabina_avion",
+    "lugar": "cabina",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": 0,
+     "z": 0,
+     "accion": "pilotar",
+     "expresion": "decidido",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "mayo",
+       "accion": "pilotar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "monomotor",
+       "accion": "pilotar",
+       "expresion": "serio",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": "20 de mayo de 1927"
+  },
+  {
+   "narracion": "Su objetivo era cruzar el océano Atlántico sin realizar escalas y llegar hasta París.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "cielo",
+    "lugar": "cielo",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "vuela",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "alejamiento",
+    "plano": "panoramico",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Era una misión extremadamente peligrosa.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "cabina_avion",
+    "lugar": "cabina",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": 0,
+     "z": 0,
+     "accion": "pilotar",
+     "expresion": "preocupado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "misión",
+       "accion": "pilotar",
+       "expresion": "preocupado",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "peligrosa",
+       "accion": "suspirar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "contrapicado",
+    "plano": "primer_plano",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Durante más de treinta horas permaneció solo en el aire, enfrentándose al cansancio, a las condiciones meteorológicas y a los riesgos de volar una aeronave de aquella época.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "cabina_avion",
+    "lugar": "cabina",
+    "hora": "atardecer",
+    "clima": "nublado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": 0,
+     "z": 0,
+     "accion": "pilotar",
+     "expresion": "cansado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "horas",
+       "accion": "pilotar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "cansancio",
+       "accion": "suspirar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "riesgos",
+       "accion": "pilotar",
+       "expresion": "preocupado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "orbita",
+    "plano": "medio",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Finalmente, el 21 de mayo, aterrizó en París.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "aerodromo",
+    "lugar": "aerodromo",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "aterriza",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 15,
+     "x": 0,
+     "z": -9,
+     "ancho": 20,
+     "fondo": 6,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": "21 de mayo de 1927"
+  },
+  {
+   "narracion": "Había conseguido lo que muchos consideraban imposible.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "aerodromo",
+    "lugar": "aerodromo",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": 0,
+     "z": 0,
+     "accion": "parado",
+     "expresion": "alivio",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "conseguido",
+       "accion": "suspirar",
+       "expresion": "alivio",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "imposible",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": -2,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": 3,
+     "z": -6,
+     "ancho": 8,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": null,
+   "habla": null,
+   "titulo": "EL HOMBRE QUE CRUZÓ EL ATLÁNTICO",
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "kiosco",
+     "x": 2,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 20,
+     "x": 0,
+     "z": -9,
+     "ancho": 24,
+     "fondo": 6,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "primer_plano",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "destello",
+   "efectos": [
+    "destello"
+   ],
+   "rotulo": null
+  },
+  {
+   "narracion": "De un día para otro, Lindbergh pasó de ser un piloto relativamente desconocido a convertirse en uno de los hombres más famosos del planeta.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": -4,
+     "z": 0,
+     "accion": "caminar",
+     "expresion": "serio",
+     "hacia": [
+      0,
+      -1
+     ],
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "día",
+       "accion": "caminar",
+       "expresion": "serio",
+       "hacia": [
+        0,
+        -1
+       ],
+       "mano": null
+      },
+      {
+       "cuando": "piloto",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "famosos",
+       "accion": "suspirar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "kiosco",
+     "x": 2,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 20,
+     "x": 0,
+     "z": -9,
+     "ancho": 24,
+     "fondo": 6,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "seguimiento",
+    "plano": "general",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Pero la fama también tenía un lado oscuro.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": 0,
+     "z": 0,
+     "accion": "parado",
+     "expresion": "preocupado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "fama",
+       "accion": "pensar",
+       "expresion": "preocupado",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "oscuro",
+       "accion": "suspirar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "kiosco",
+     "x": 2,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "primer_plano",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "¡Señor Lindbergh! ¡Una fotografía, por favor!",
+   "habla": "periodista1",
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "periodista1",
+     "x": 2,
+     "z": -1,
+     "accion": "hablar",
+     "expresion": "nervioso",
+     "hacia": null,
+     "mano": "camara_foto",
+     "pasos": [
+      {
+       "cuando": "Señor",
+       "accion": "hablar",
+       "expresion": "nervioso",
+       "hacia": null,
+       "mano": "camara_foto"
+      },
+      {
+       "cuando": "fotografía",
+       "accion": "fotografiar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": "camara_foto"
+      }
+     ]
+    },
+    {
+     "id": "charles_lindbergh",
+     "x": -1,
+     "z": 0,
+     "accion": "cubrirse",
+     "expresion": "cansado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "Señor",
+       "accion": "retroceder",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "periodista1"
+   },
+   "transicion": "corte",
+   "efectos": [
+    "destello"
+   ],
+   "rotulo": null
+  },
+  {
+   "narracion": "¡Charles! ¿Cuándo volverá a volar?",
+   "habla": "periodista2",
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "periodista2",
+     "x": 2,
+     "z": 0,
+     "accion": "hablar",
+     "expresion": "decidido",
+     "hacia": null,
+     "mano": "libreta",
+     "pasos": [
+      {
+       "cuando": "Charles",
+       "accion": "hablar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": "libreta"
+      },
+      {
+       "cuando": "volar",
+       "accion": "entrevistar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": "libreta"
+      }
+     ]
+    },
+    {
+     "id": "charles_lindbergh",
+     "x": -1,
+     "z": 0,
+     "accion": "negar",
+     "expresion": "cansado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "Charles",
+       "accion": "negar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "periodista2"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Lo siento, señores. Ahora necesito descansar.",
+   "habla": "charles_lindbergh",
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": -1,
+     "z": 0,
+     "accion": "hablar",
+     "expresion": "cansado",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "siento",
+       "accion": "hablar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "descansar",
+       "accion": "manos_cadera",
+       "expresion": "serio",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    },
+    {
+     "id": "periodista1",
+     "x": 2,
+     "z": -1,
+     "accion": "fotografiar",
+     "expresion": "nervioso",
+     "hacia": null,
+     "mano": "camara_foto",
+     "pasos": [
+      {
+       "cuando": "siento",
+       "accion": "fotografiar",
+       "expresion": "nervioso",
+       "hacia": null,
+       "mano": "camara_foto"
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "primer_plano",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [
+    "destello"
+   ],
+   "rotulo": null
+  },
+  {
+   "narracion": "Su vida privada prácticamente había dejado de pertenecerle.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "dia",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": -1,
+     "z": 0,
+     "accion": "caminar",
+     "expresion": "triste",
+     "hacia": [
+      -4,
+      0
+     ],
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "vida",
+       "accion": "caminar",
+       "expresion": "triste",
+       "hacia": [
+        -4,
+        0
+       ],
+       "mano": null
+      },
+      {
+       "cuando": "pertenecerle",
+       "accion": "suspirar",
+       "expresion": "cansado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 3,
+     "z": -4,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "seguimiento",
+    "plano": "general",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Y cuando formó una familia, la atención de los medios también se dirigió hacia su esposa y sus hijos.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "calle_nueva_york",
+    "lugar": "calle",
+    "hora": "atardecer",
+    "clima": "nublado"
+   },
+   "actores": [
+    {
+     "id": "charles_lindbergh",
+     "x": -2,
+     "z": 0,
+     "accion": "parado",
+     "expresion": "pensativo",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "familia",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "medios",
+       "accion": "preocuparse",
+       "expresion": "preocupado",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -3,
+     "z": -3,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 3,
+     "z": -4,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -7,
+     "ancho": 12,
+     "fondo": 4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": "camara_foto",
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 20,
+     "x": 5,
+     "z": -9,
+     "ancho": 8,
+     "fondo": 6,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "camara": {
+    "tipo": "alejamiento",
+    "plano": "panoramico",
+    "objetivo": "charles_lindbergh"
+   },
+   "transicion": "fundido",
+   "efectos": [],
+   "rotulo": null
+  }
+ ]
+}

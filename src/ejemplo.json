@@ -1,0 +1,28 @@
+{
+  "titulo": "La carreta de Tomás",
+  "personajes": [
+    { "id": "tomas", "nombre": "Tomás", "complexion": "adulto", "piel": "#f5c9a0", "camisa": "#3f6fb5", "pantalon": "#3b3f52", "zapatos": "#4a3426", "sombrero": "gorra", "colorSombrero": "#c0353a", "bigote": "#4a3426" },
+    { "id": "lucia", "nombre": "Lucía", "complexion": "adulto", "piel": "#ffe2c2", "camisa": "#7b5ac9", "pantalon": "#3b3f52", "zapatos": "#5a3b2a", "sombrero": "pelo", "colorSombrero": "#5a3b2a", "vestido": "#d9a441" },
+    { "id": "beto", "nombre": "Beto", "complexion": "nino", "piel": "#ecd0b6", "camisa": "#f08a2c", "pantalon": "#3b5b9a", "zapatos": "#f4f1ea", "sombrero": "ninguno" }
+  ],
+  "escenas": [
+    { "id": 1, "narracion": "Tomás tenía una carreta que nadie quería.", "inicio": 0, "duracion": 3.2,
+      "ambiente": { "lugar": "pueblo", "hora": "dia" },
+      "actores": [ { "id": "tomas", "x": 0, "z": 0, "accion": "hablar", "expresion": "sonrisa" } ],
+      "objetos": [ { "tipo": "carreta", "x": 2.2, "z": -1.2, "giro": 0.4 } ],
+      "camara": { "tipo": "acercamiento", "plano": "medio", "objetivo": "tomas" }, "transicion": "corte", "efectos": [] },
+    { "id": 2, "narracion": "Lucía se rió tanto que se cayó.", "inicio": 3.2, "duracion": 3.0,
+      "ambiente": { "lugar": "pueblo", "hora": "dia" },
+      "actores": [ { "id": "lucia", "x": -1, "z": 0, "accion": "celebrar", "expresion": "risa", "luego": { "t": 1.4, "accion": "caer", "expresion": "mareado" } },
+                   { "id": "beto", "x": 1.2, "z": 0.4, "accion": "senalar", "expresion": "feliz" } ],
+      "objetos": [], "camara": { "tipo": "orbita", "plano": "general", "objetivo": "grupo" }, "transicion": "destello",
+      "efectos": [ { "tipo": "polvo", "t": 1.6, "actor": "lucia" } ] },
+    { "id": 3, "narracion": "Esa noche, Tomás caminó solo hacia el bosque.", "inicio": 6.2, "duracion": 3.6,
+      "ambiente": { "lugar": "bosque", "hora": "atardecer" },
+      "actores": [ { "id": "tomas", "x": -3, "z": 0, "accion": "caminar", "expresion": "serio", "hacia": [3, -1] } ],
+      "objetos": [ { "tipo": "fogata", "x": 3.5, "z": -2.5 } ],
+      "camara": { "tipo": "seguimiento", "plano": "general", "objetivo": "tomas" }, "transicion": "fundido",
+      "efectos": [ { "tipo": "signo", "t": 2.6, "actor": "tomas" } ] }
+  ],
+  "audio": null
+}

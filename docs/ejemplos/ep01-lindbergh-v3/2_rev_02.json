@@ -1,0 +1,271 @@
+{
+ "correcciones": [
+  {
+   "escena": 3,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "pilotar",
+     "expresion": "serio"
+    },
+    {
+     "t": 5,
+     "accion": "mirar_reloj",
+     "expresion": "pensativo"
+    },
+    {
+     "t": 7.5,
+     "accion": "pilotar",
+     "expresion": "decidido"
+    }
+   ],
+   "motivo": "No repetir 'pilotar' toda la escena; variar gestos y expresión."
+  },
+  {
+   "escena": 5,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "pilotar",
+     "expresion": "serio"
+    },
+    {
+     "t": 5,
+     "accion": "suspirar",
+     "expresion": "preocupado"
+    },
+    {
+     "t": 7.5,
+     "accion": "pilotar",
+     "expresion": "decidido"
+    }
+   ],
+   "motivo": "Evitar acción congelada; alternar pilotar con gestos."
+  },
+  {
+   "escena": 6,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "pilotar",
+     "expresion": "cansado"
+    },
+    {
+     "t": 5,
+     "accion": "suspirar",
+     "expresion": "cansado"
+    },
+    {
+     "t": 7.5,
+     "accion": "mirar_reloj",
+     "expresion": "preocupado"
+    },
+    {
+     "t": 10,
+     "accion": "pilotar",
+     "expresion": "decidido"
+    }
+   ],
+   "motivo": "Treinta horas de vuelo: mostrar cansancio con cambios, no solo pilotar."
+  },
+  {
+   "escena": 8,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "suspirar",
+     "expresion": "alivio"
+    },
+    {
+     "t": 5,
+     "accion": "pensar",
+     "expresion": "pensativo"
+    },
+    {
+     "t": 7.5,
+     "accion": "asentir",
+     "expresion": "alivio"
+    }
+   ],
+   "motivo": "Reacción humana al logro; no quedarse parado."
+  },
+  {
+   "escena": 9,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "caminar",
+     "expresion": "serio"
+    },
+    {
+     "t": 5,
+     "accion": "pensar",
+     "expresion": "pensativo"
+    },
+    {
+     "t": 7.5,
+     "accion": "suspirar",
+     "expresion": "cansado"
+    }
+   ],
+   "motivo": "Variar la caminata con gestos; la biblia dice cansado."
+  },
+  {
+   "escena": 10,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "pensar",
+     "expresion": "preocupado"
+    },
+    {
+     "t": 5,
+     "accion": "suspirar",
+     "expresion": "preocupado"
+    },
+    {
+     "t": 7.5,
+     "accion": "ir_y_venir",
+     "expresion": "nervioso"
+    }
+   ],
+   "motivo": "El lado oscuro de la fama: mostrar inquietud, no solo parado."
+  },
+  {
+   "escena": 11,
+   "op": "pasos",
+   "id": "periodista1",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "hablar",
+     "expresion": "nervioso"
+    },
+    {
+     "t": 5,
+     "accion": "fotografiar",
+     "expresion": "decidido"
+    },
+    {
+     "t": 7.5,
+     "accion": "fotografiar",
+     "expresion": "nervioso"
+    }
+   ],
+   "motivo": "El reportero gráfico debe fotografiar con cámara; alternar con hablar."
+  },
+  {
+   "escena": 12,
+   "op": "pasos",
+   "id": "periodista2",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "entrevistar",
+     "expresion": "decidido"
+    },
+    {
+     "t": 5,
+     "accion": "hablar",
+     "expresion": "decidido"
+    },
+    {
+     "t": 7.5,
+     "accion": "entrevistar",
+     "expresion": "nervioso"
+    }
+   ],
+   "motivo": "El reportero de prensa entrevista con micrófono/libreta; variar gestos."
+  },
+  {
+   "escena": 12,
+   "op": "actor",
+   "id": "periodista2",
+   "accion": "entrevistar",
+   "mano": "microfono",
+   "expresion": "decidido",
+   "motivo": "El reportero de prensa usa micrófono para entrevistar."
+  },
+  {
+   "escena": 13,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "hablar",
+     "expresion": "cansado"
+    },
+    {
+     "t": 5,
+     "accion": "manos_cadera",
+     "expresion": "cansado"
+    },
+    {
+     "t": 7.5,
+     "accion": "negar",
+     "expresion": "serio"
+    }
+   ],
+   "motivo": "Acompañar el diálogo con gestos; no repetir hablar."
+  },
+  {
+   "escena": 14,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "caminar",
+     "expresion": "triste"
+    },
+    {
+     "t": 5,
+     "accion": "suspirar",
+     "expresion": "triste"
+    },
+    {
+     "t": 7.5,
+     "accion": "caminar",
+     "expresion": "cansado"
+    }
+   ],
+   "motivo": "Variar la caminata con gestos de tristeza."
+  },
+  {
+   "escena": 15,
+   "op": "pasos",
+   "id": "charles_lindbergh",
+   "pasos": [
+    {
+     "t": 2.5,
+     "accion": "pensar",
+     "expresion": "pensativo"
+    },
+    {
+     "t": 5,
+     "accion": "preocuparse",
+     "expresion": "preocupado"
+    },
+    {
+     "t": 7.5,
+     "accion": "suspirar",
+     "expresion": "triste"
+    }
+   ],
+   "motivo": "Mostrar la preocupación por su familia con cambios de gesto."
+  }
+ ]
+}

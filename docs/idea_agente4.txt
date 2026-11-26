@@ -1,0 +1,28 @@
+Vamos a desarrollar un proyecto independiente llamado "Agente 4 — Stickman: Expedientes Criminales".
+
+Antes de realizar cualquier cambio, necesito que hagas una inspección de solo lectura.
+
+REGLAS OBLIGATORIAS:
+1. No modifiques, elimines, renombres ni reemplaces ningún archivo existente.
+2. No modifiques los agentes DeepSeek 1, 2 y 3.
+3. No cambies configuraciones globales de Claude Code, proveedores, modelos ni API.
+4. No instales dependencias todavía.
+5. No muestres claves API, contraseñas, tokens ni credenciales.
+
+OBJETIVOS:
+- Confirma la ruta del proyecto actual.
+- Comprueba qué archivos y carpetas existen en este proyecto.
+- Identifica las habilidades de HyperFrames disponibles.
+- Identifica, mediante inspección de solo lectura, cómo está configurada actualmente la delegación a DeepSeek y dónde están definidos los agentes existentes, si tienes acceso a esa información.
+- Identifica qué mecanismos permiten crear un cuarto agente independiente sin alterar los tres anteriores.
+- Indica qué tareas podrían delegarse a DeepSeek y cuáles conviene reservar para Claude.
+- Confirma si HyperFrames está disponible para este proyecto.
+
+Al terminar, presenta un informe breve con:
+A. Estado del proyecto.
+B. Arquitectura actual de los agentes.
+C. Integración disponible con DeepSeek.
+D. Herramientas disponibles para HyperFrames.
+E. Plan recomendado para incorporar el Agente 4.
+
+No crees ni edites archivos. Espera mi autorización antes de realizar cualquier modificación.

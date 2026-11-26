@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stickman Studio</title>
+<style>
+  :root { --bg:#14121a; --panel:#1e1b27; --line:#2f2b3c; --txt:#ece8f4; --mute:#9a93ad; --acc:#ffb347; --ok:#5fd38d; --warn:#ffcf5a; --err:#ff6b6b; --run:#7aa7ff; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--txt); font:15px/1.45 system-ui, "Segoe UI", sans-serif; }
+  header { padding:18px 22px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:14px; }
+  header h1 { margin:0; font-size:20px; letter-spacing:.3px; }
+  header .tag { font-size:12px; padding:3px 9px; border-radius:99px; border:1px solid var(--line); color:var(--mute); }
+  header .tag.on { color:var(--ok); border-color:#2f6b47; }
+  main { display:grid; grid-template-columns:minmax(0,1.15fr) minmax(0,1fr); gap:18px; padding:18px 22px; max-width:1400px; margin:0 auto; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; padding:16px; } }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:16px; }
+  .card h2 { margin:0 0 10px; font-size:15px; color:var(--mute); font-weight:600; text-transform:uppercase; letter-spacing:.6px; }
+  textarea { width:100%; min-height:300px; resize:vertical; background:#120f18; color:var(--txt); border:1px solid var(--line); border-radius:10px; padding:14px; font:16px/1.55 system-ui, sans-serif; }
+  textarea:focus, select:focus { outline:2px solid #4a3f6b; }
+  .row { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-top:12px; }
+  label { color:var(--mute); font-size:13px; display:flex; gap:6px; align-items:center; }
+  select { background:#120f18; color:var(--txt); border:1px solid var(--line); border-radius:8px; padding:7px 9px; }
+  button { background:var(--acc); color:#1b1206; border:0; border-radius:10px; padding:11px 20px; font-weight:700; font-size:15px; cursor:pointer; }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  button.sec { background:transparent; color:var(--txt); border:1px solid var(--line); font-weight:500; padding:8px 12px; font-size:13px; }
+  .hint { color:var(--mute); font-size:12.5px; margin-top:8px; }
+  .agents { display:grid; grid-template-columns:repeat(4, 1fr); gap:8px; }
+  .agents.extra { grid-template-columns:repeat(3, 1fr); margin-top:8px; }
+  .ag { border:1px solid var(--line); border-radius:10px; padding:9px 10px; font-size:13px; }
+  .ag b { display:block; font-size:13.5px; }
+  .ag span { color:var(--mute); font-size:12px; }
+  .ag.trabajando { border-color:var(--run); } .ag.trabajando span { color:var(--run); }
+  .ag.listo { border-color:#2f6b47; } .ag.listo span { color:var(--ok); }
+  .ag.aviso { border-color:#7a6424; } .ag.aviso span { color:var(--warn); }
+  .bar { height:8px; background:#120f18; border-radius:99px; overflow:hidden; margin-top:12px; }
+  .bar i { display:block; height:100%; width:0; background:linear-gradient(90deg, var(--acc), #ff7a59); transition:width .3s; }
+  #log { height:190px; overflow:auto; background:#0f0d14; border:1px solid var(--line); border-radius:10px; padding:10px; font:12.5px/1.5 ui-monospace, Consolas, monospace; color:#c9c2da; margin-top:12px; white-space:pre-wrap; }
+  #log .e { color:var(--err); }
+  .fotos { display:flex; gap:6px; overflow-x:auto; margin-top:12px; }
+  .fotos img { height:150px; border-radius:8px; border:1px solid var(--line); }
+  video { width:100%; max-height:70vh; background:#000; border-radius:12px; margin-top:12px; aspect-ratio:9/16; object-fit:contain; }
+  .proy { list-style:none; padding:0; margin:0; max-height:220px; overflow:auto; }
+  .proy li { border-bottom:1px solid var(--line); padding:8px 2px; font-size:13px; display:flex; gap:10px; justify-content:space-between; align-items:center; }
+  .proy li span { color:var(--mute); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  a { color:var(--acc); }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎬 Stickman Studio</h1>
+  <span class="tag" id="ds">DeepSeek: …</span>
+</header>
+<main>
+  <section>
+    <div class="card">
+      <h2>Guion de la historia</h2>
+      <textarea id="guion" placeholder="Escribe aquí tu historia. Puede ser un guion completo o solo la idea.&#10;&#10;Ejemplo: Marta construyó un paraguas tan grande que tapó el sol de todo el pueblo. Los vecinos se rieron de ella. Pero esa tarde cayó una tormenta enorme…"></textarea>
+      <div class="row">
+        <label>Voz
+          <select id="voz">
+            <option value="es-MX-JorgeNeural">Jorge (México)</option>
+            <option value="es-MX-DaliaNeural">Dalia (México)</option>
+            <option value="es-CO-GonzaloNeural">Gonzalo (Colombia)</option>
+            <option value="es-CO-SalomeNeural">Salomé (Colombia)</option>
+            <option value="es-ES-AlvaroNeural">Álvaro (España)</option>
+            <option value="es-AR-TomasNeural">Tomás (Argentina)</option>
+          </select>
+        </label>
+        <label>Ritmo
+          <select id="vel"><option value="+0%">normal</option><option value="+8%" selected>ágil</option><option value="+15%">rápido</option></select>
+        </label>
+        <label>Calidad
+          <select id="cal"><option value="borrador">borrador (540×960, rápido)</option><option value="final">final (1080×1920)</option></select>
+        </label>
+        <label><input type="checkbox" id="local"> sin DeepSeek (prueba)</label>
+      </div>
+      <div class="row">
+        <button id="go">Crear video</button>
+        <span class="hint" id="estado"></span>
+      </div>
+      <p class="hint">La voz se genera con edge-tts (servicio gratuito de Microsoft en línea). Los agentes usan tu clave de DeepSeek del archivo <code>.env</code>.</p>
+    </div>
+    <div class="card" style="margin-top:18px">
+      <h2>Agentes</h2>
+      <div class="agents">
+        <div class="ag" id="p-organizador"><b>Organizador</b><span>en espera</span></div>
+        <div class="ag" id="p-disenador"><b>Diseñador</b><span>en espera</span></div>
+        <div class="ag" id="p-editor"><b>Editor</b><span>en espera</span></div>
+        <div class="ag" id="p-validador"><b>Validador</b><span>en espera</span></div>
+      </div>
+      <div class="agents extra">
+        <div class="ag" id="p-voz"><b>Voz</b><span>en espera</span></div>
+        <div class="ag" id="p-fondos"><b>Fondos fotográficos</b><span>en espera</span></div>
+        <div class="ag" id="p-sonido"><b>Música y efectos</b><span>en espera</span></div>
+        <div class="ag" id="p-render"><b>Render 3D</b><span>en espera</span></div>
+      </div>
+      <div class="bar"><i id="bar"></i></div>
+      <div id="log"></div>
+    </div>
+  </section>
+  <section>
+    <div class="card">
+      <h2>Resultado</h2>
+      <div class="fotos" id="fotos"></div>
+      <video id="vid" controls playsinline></video>
+      <div class="row" id="links"></div>
+    </div>
+    <div class="card" style="margin-top:18px">
+      <h2>Videos anteriores</h2>
+      <ul class="proy" id="proy"></ul>
+    </div>
+  </section>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const logEl = $("log");
+const log = (m, err) => { const d = document.createElement("div"); if (err) d.className = "e"; d.textContent = m; logEl.appendChild(d); logEl.scrollTop = logEl.scrollHeight; };
+const TXT = { trabajando: "trabajando…", listo: "listo", aviso: "con avisos" };
+const pasos = ["organizador", "disenador", "voz", "editor", "validador", "fondos", "sonido", "render"];
+const resetPasos = () => pasos.forEach((n) => { const el = $("p-" + n); el.className = "ag"; el.querySelector("span").textContent = "en espera"; });
+try { const g = localStorage.getItem("guion"); if (g) $("guion").value = g; } catch {}
+$("guion").addEventListener("input", () => { try { localStorage.setItem("guion", $("guion").value); } catch {} });
+
+async function estado() {
+  const r = await fetch("/api/estado").then((x) => x.json());
+  $("ds").textContent = r.deepseek ? "DeepSeek: conectado" : "DeepSeek: falta clave (.env)";
+  $("ds").classList.toggle("on", r.deepseek);
+  if (!r.deepseek) $("local").checked = true;
+}
+async function proyectos() {
+  const l = await fetch("/api/proyectos").then((x) => x.json());
+  $("proy").innerHTML = "";
+  for (const p of l) {
+    const li = document.createElement("li");
+    const s = document.createElement("span"); s.textContent = p.guion; li.appendChild(s);
+    if (p.video) { const b = document.createElement("button"); b.className = "sec"; b.textContent = "Ver"; b.onclick = () => { $("vid").src = p.video; $("vid").play(); }; li.appendChild(b); }
+    $("proy").appendChild(li);
+  }
+}
+$("go").onclick = async () => {
+  const guion = $("guion").value.trim();
+  if (guion.length < 10) { $("estado").textContent = "Escribe al menos una frase."; return; }
+  $("go").disabled = true; logEl.innerHTML = ""; $("fotos").innerHTML = ""; $("links").innerHTML = ""; $("bar").style.width = "0"; resetPasos();
+  $("estado").textContent = "Trabajando…";
+  const r = await fetch("/api/generar", { method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ guion, voz: $("voz").value, velocidad: $("vel").value, calidad: $("cal").value, local: $("local").checked }) }).then((x) => x.json());
+  if (r.error) { $("estado").textContent = r.error; $("go").disabled = false; return; }
+  const es = new EventSource("/api/eventos/" + r.id);
+  es.onmessage = (m) => {
+    const ev = JSON.parse(m.data);
+    if (ev.tipo === "log") log(ev.m);
+    else if (ev.tipo === "paso") { const el = $("p-" + ev.n); if (el) { el.className = "ag " + ev.e; el.querySelector("span").textContent = TXT[ev.e] || ev.e; } }
+    else if (ev.tipo === "progreso") { $("bar").style.width = ev.p + "%"; $("estado").textContent = `Renderizando ${ev.p}%`; }
+    else if (ev.tipo === "fotos") { for (const u of ev.urls) { const i = document.createElement("img"); i.src = u; $("fotos").appendChild(i); } }
+    else if (ev.tipo === "fin") {
+      es.close(); $("go").disabled = false; $("estado").textContent = "¡Video listo!"; $("bar").style.width = "100%";
+      $("vid").src = ev.video; $("vid").play().catch(() => {});
+      $("links").innerHTML = `<a href="${ev.video}" download>Descargar MP4</a> · <a href="${ev.plan}" target="_blank">Ver plan (JSON)</a>`;
+      proyectos();
+    } else if (ev.tipo === "error") { es.close(); $("go").disabled = false; $("estado").textContent = "Hubo un error"; log("ERROR: " + ev.m, true); }
+  };
+};
+estado(); proyectos();
+</script>
+</body>
+</html>

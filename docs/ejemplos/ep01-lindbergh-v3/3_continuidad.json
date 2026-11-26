@@ -1,0 +1,398 @@
+[
+ {
+  "bloque": "ESCENA 01 — LA MANSIÓN LINDBERGH",
+  "revisor": [
+   "escena 12: agregar_actor charles_jr → sentado (La narración nombra al bebé; debe verse durmiendo en la cuna (no parado, sentado/acostado )",
+   "escena 13: agregar_actor charles_jr → sentado (El bebé del que habla la narración debe estar en la cuna antes de desaparecer.)",
+   "escena 13: pasos charles_jr (Mantener al bebé en la cuna sin congelar la escena; el cambio real es la desaparición impl)"
+  ],
+  "reglas": [
+   "escena 1: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 2: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 3: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 4: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 5: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 6: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 7: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 8: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 9: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 10: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 11: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 12: el bebé va en la cuna o en brazos, no parado",
+   "escena 13: el bebé va en la cuna o en brazos, no parado"
+  ]
+ },
+ {
+  "bloque": "ESCENA 02 — NUEVA YORK, 1927",
+  "revisor": [
+   "escena 12: actor periodista2 → entrevistar (El reportero de prensa usa micrófono para entrevistar.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 03 — EL NACIMIENTO DE CHARLES JR.",
+  "revisor": [
+   "escena 3: ambiente (La escena de la prensa ocurre en exterior; el supermercado con estantes no corresponde a l)",
+   "escena 3: quitar_objeto estante (No hay supermercado en lo narrado; la prensa fotografía a la familia, no hay compra.)",
+   "escena 3: quitar_objeto estante (Segundo estante sobrante del decorado equivocado.)",
+   "escena 4: quitar_objeto estante (Decorado equivocado: no es un supermercado.)",
+   "escena 4: quitar_objeto estante (Segundo estante sobrante.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 04 — PRIMERO DE MARZO DE 1932",
+  "revisor": [
+   "escena 3: actor betty_gow → arropar (La niñera cuida al bebé: arropar junto a la cuna, no caminar con taza; el bebé debe estar )",
+   "escena 3: agregar_objeto cuna (La narración sitúa al bebé en su habitación; la cuna con el bebé debe verse.)",
+   "escena 4: actor secuestrador → espiar (El intruso observa la casa antes de entrar; espiar con expresión sospechosa, no caminar si)",
+   "escena 6: actor secuestrador → entrar (Llega a la ventana y se desliza dentro; entrar al final, no repetir trepar tres veces.)",
+   "escena 7: actor secuestrador → cargar (Se lleva al niño: cargar con el bebé en brazos, no caminar sin más.)",
+   "escena 7: agregar_actor charles_jr → cargar (El bebé secuestrado debe verse en brazos del intruso, dormido.)",
+   "escena 8: ambiente (La escalera tirada como pista se ve de noche, coherente con el secuestro.)"
+  ],
+  "reglas": [
+   "escena 1: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 2: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 3: betty_gow arropa al bebé en la cuna",
+   "escena 4: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 5: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 5: secuestrador trepa la escalera apoyada bajo la ventana del cuarto",
+   "escena 6: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 6: secuestrador llega arriba y entra por la ventana",
+   "escena 7: el bebé va en la cuna o en brazos, no parado",
+   "escena 8: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)"
+  ]
+ },
+ {
+  "bloque": "ESCENA 05 — EL DESCUBRIMIENTO",
+  "revisor": [
+   "escena 1: actor betty_gow → acercarse (La biblia dice que entra y mira la cuna vacía; debe acercarse a la cuna, no pasear sin mot)",
+   "escena 3: actor betty_gow → encogerse (Debe agacharse a mirar debajo de la cama y revisar el armario, no solo acercarse.)",
+   "escena 6: actor anne_morrow → entrar (Anne sube las escaleras corriendo en bata y se agarra al marco; debe entrar alarmada, no q)",
+   "escena 7: actor anne_morrow → preocuparse (Registra las sábanas de la cuna; su expresión debe ser de terror, no solo preocupación.)",
+   "escena 10: actor anne_morrow → cubrirse (Se lleva las manos a la boca al ver la nota; coherente con el momento clave.)",
+   "escena 11: actor charles_lindbergh → ir_y_venir (Aparece en el pasillo abriendo puertas una tras otra; debe moverse registrando, no caminar)",
+   "escena 14: actor betty_gow → correr (Busca desesperadamente por la casa; correr es coherente con la búsqueda.)",
+   "escena 17: actor charles_lindbergh → hablar (Comenta la nota; expresión tensa, no confundido.)",
+   "escena 19: actor betty_gow → preocuparse (No entrega nada: la nota ya la tiene Charles; Betty reacciona preocupada.)",
+   "escena 20: actor anne_morrow → preocuparse (Reacción al contenido de la nota; terror coherente con la biblia.)",
+   "escena 22: actor anne_morrow → cubrirse (No hay a quién consolar; Anne sigue angustiada por la advertencia de la carta.)"
+  ],
+  "reglas": [
+   "escena 2: betty_gow se aparta de la cuna",
+   "escena 4: betty_gow se aparta de la cuna"
+  ]
+ },
+ {
+  "bloque": "ESCENA 06 — LLEGAN LOS INVESTIGADORES",
+  "revisor": [
+   "escena 3: actor investigador → senalar (Debe señalar la escalera y la nota mencionada; la acción de señalar es la adecuada.)",
+   "escena 8: actor investigador → leer (Debe examinar de cerca las marcas de la escalera; variar de 'pensar' a 'leer' la madera co)",
+   "escena 9: actor investigador → asentir (Escucha al oficial y asiente; correcto.)",
+   "escena 10: actor investigador → explicar (Al hablar debe explicar sus hallazgos, no solo 'pensar' con la lupa.)",
+   "escena 12: actor investigador → enumerar (Da instrucciones enumerando puntos; correcto.)",
+   "escena 14: actor investigador → suspirar (La prioridad es recuperar al niño; el detective reflexiona preocupado, coherente.)"
+  ],
+  "reglas": [
+   "escena 1: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 2: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 3: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 4: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 5: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 6: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 7: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 8: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 9: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 10: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 11: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 12: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 13: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 14: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)"
+  ]
+ },
+ {
+  "bloque": "ESCENA 07 — EL INTERMEDIARIO",
+  "revisor": [
+   "escena 1: actor john_condon → sentado (La narración lo presenta como intermediario; conviene verlo ya leyendo el periódico en su )",
+   "escena 4: actor john_condon → escribir (Publica un anuncio: debe anotar/escribir el texto, no señalar con el periódico.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 08 — WOODLAWN CEMETERY",
+  "revisor": [
+   "escena 17: actor john_condon → leer (La narración dice que recibe una prenda infantil; debe sostenerla/examinarla (prenda) en v)",
+   "escena 20: actor john_condon → senalar (Sigue con la prenda en la mano al exigir la devolución del niño.)",
+   "escena 22: actor john_condon → manos_cadera (Conserva la prenda en la mano durante el reclamo.)",
+   "escena 22: agregar_objeto lapida (La escena quedó sin utilería del cementerio; debe conservar el decorado de tumbas.)",
+   "escena 22: agregar_objeto farola (Falta la farola del cementerio nocturno para mantener continuidad de lugar.)",
+   "escena 22: agregar_actor john → hablar (John responde en la escena 21 y debe seguir presente en la conversación; no puede desapare)",
+   "escena 21: pasos john_condon (No debe permanecer inmóvil mientras John habla.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 09 — LA NEGOCIACIÓN FINAL",
+  "revisor": [
+   "escena 8: actor john → leer (John acepta y verifica el contenido del maletín con desconfianza, no lo carga sin más.)",
+   "escena 9: actor john_condon → entregar (Al decir 'Aquí está todo' entrega el maletín; coherente con la acción.)",
+   "escena 10: agregar_actor john_condon → asentir (En el diálogo se ve a quien escucha; Condon reacciona a la pregunta de John.)",
+   "escena 11: agregar_actor john → dudar (John escucha la exigencia de Condon y reacciona con desconfianza.)",
+   "escena 12: agregar_actor john_condon → cruzar_brazos (Condon escucha la promesa de John; no debe quedar fuera de cuadro.)",
+   "escena 13: agregar_actor john → retroceder (John reacciona al reclamo enojado de Condon.)",
+   "escena 14: agregar_actor john_condon → leer (Condon recibe y lee la nota que entrega el desconocido.)",
+   "escena 15: agregar_actor john → señalar (John está presente al mencionarse el mensaje; reacciona mientras Condon lee.)",
+   "escena 16: agregar_actor john_condon → asentir (Condon escucha la ubicación del barco Nellie y reacciona.)",
+   "escena 17: quitar_actor investigador (El investigador no lleva maletín; ese objeto corresponde a Condon. Además la escena de mov)",
+   "escena 17: agregar_actor john_condon → caminar (Quien se moviliza con el maletín del rescate es Condon, no el detective.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 10 — LA BÚSQUEDA EN EL MAR",
+  "revisor": [
+   "escena 1: actor marinero → pensar (El marinero revisa la cubierta; se le da un gesto de búsqueda en vez de estar parado.)",
+   "escena 2: actor marinero → pensar (El marinero escudriña la zona; mantiene gesto de búsqueda.)",
+   "escena 3: actor oficial → pensar (Buscan cualquier indicio: el oficial reflexiona sobre la pista.)",
+   "escena 3: actor marinero → preocuparse (El marinero se preocupa al no hallar señal del barco.)",
+   "escena 4: actor marinero → negar (El marinero niega con la cabeza: no ha visto la embarcación.)",
+   "escena 5: actor oficial → asentir (El oficial asiente preocupado ante la respuesta negativa.)",
+   "escena 7: actor oficial → asentir (El oficial asiente preocupado al informe.)",
+   "escena 8: actor charles_lindbergh → pensar (Charles observa el horizonte con expresión desolada, no camina sin motivo.)",
+   "escena 10: actor charles_lindbergh → asentir (Charles asiente triste ante la promesa.)",
+   "escena 11: actor charles_lindbergh → negar (Charles niega: no pueden volver sin el niño.)",
+   "escena 11: actor oficial → asentir (El oficial asiente preocupado.)",
+   "escena 12: actor charles_lindbergh → cubrirse (El resultado devastador: Charles se cubre el rostro.)",
+   "escena 12: actor oficial → negar (El oficial niega con la cabeza: no encontraron al niño.)",
+   "escena 13: actor charles_lindbergh → suspirar (La pista era falsa: Charles suspira preocupado.)",
+   "escena 13: actor oficial → asentir (El oficial asiente ante la pista falsa.)",
+   "escena 14: actor charles_lindbergh → cubrirse (Siguió las instrucciones y aún no tiene a su hijo: se cubre.)",
+   "escena 14: actor oficial → suspirar (El oficial suspira preocupado.)",
+   "escena 15: actor charles_lindbergh → dudar (Charles se pregunta si el secuestrador mintió desde el principio.)",
+   "escena 15: actor oficial → encogerse (El oficial se encoge de hombros: no hay respuesta.)",
+   "escena 16: actor charles_lindbergh → cubrirse (Charles teme que haya ocurrido algo terrible.)",
+   "escena 16: actor oficial → negar (El oficial niega: nadie tiene respuesta.)",
+   "escena 17: actor charles_lindbergh → suspirar (Cierre triste: Charles suspira sin respuesta.)",
+   "escena 17: actor oficial → encogerse (El oficial se encoge: nadie sabe todavía.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 11 — DOCE DE MAYO DE 1932",
+  "revisor": [
+   "escena 6: ambiente (La secuencia indica día despejado; el nublado no corresponde.)",
+   "escena 7: ambiente (Mantener coherencia de clima con la secuencia (despejado).)",
+   "escena 8: ambiente (Mantener coherencia de clima con la secuencia (despejado).)",
+   "escena 9: ambiente (Mantener coherencia de clima con la secuencia (despejado).)",
+   "escena 8: actor oficial → asentir (La acción 'escuchar' no existe en el catálogo; el oficial reacciona a las notas del detect)",
+   "escena 12: actor charles_lindbergh → negar ('bajar_cabeza' no es una acción válida; niega con la cabeza ante la pregunta de Anne.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 12 — LA INVESTIGACIÓN SE EXTIENDE",
+  "revisor": [
+   "escena 2: actor investigador → escribir (Recibir miles de pistas implica anotarlas; el detective anota en libreta.)",
+   "escena 3: actor oficial → negar (Las pistas falsas se descartan; el oficial debe negar, no solo asentir.)",
+   "escena 8: actor investigador → entregar (Dice 'Tenemos nuevos certificados' y entrega la nota con los datos al oficial.)",
+   "escena 11: actor investigador → cruzar_brazos (Escucha la pregunta del oficial y reflexiona; cruzar brazos con gesto pensativo.)",
+   "escena 13: actor oficial → suspirar (El caso estancado; el oficial debe mostrar preocupación, no solo pensar.)",
+   "escena 14: actor oficial → sorpresa (Aparecen nuevos certificados en agosto y septiembre; reacción de sorpresa.)",
+   "escena 16: actor oficial → sorpresa (Aparece una pista decisiva; el oficial debe reaccionar con sorpresa, no asentir.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 13 — UNA ESTACIÓN DE SERVICIO",
+  "revisor": [
+   "escena 1: actor empleado_gasolinera → entregar (Recibe el certificado de oro: debe tenerlo en la mano, no solo caminar.)",
+   "escena 3: agregar_objeto auto (El automóvil cuya matrícula anota debe estar en escena.)",
+   "escena 5: actor empleado_gasolinera → hablar (Detiene al cliente mostrando el billete.)",
+   "escena 6: actor empleado_gasolinera → pensar (Escucha la pregunta sosteniendo el certificado.)",
+   "escena 7: actor empleado_gasolinera → entregar (Muestra el billete para comprobarlo.)",
+   "escena 8: actor empleado_gasolinera → negar (Reacciona a la queja del cliente.)",
+   "escena 9: actor empleado_gasolinera → pensar (Examina el certificado mientras habla.)",
+   "escena 10: actor empleado_gasolinera → pensar (Observa al cliente que se marcha con prisa.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 14 — LA VIGILANCIA",
+  "revisor": [
+   "escena 1: pasos oficial1 (No sostener la misma acción toda la escena; consulta libreta como en la biblia.)",
+   "escena 10: actor policia → detener (Apunta a Hauptmann con su arma y le ordena detenerse.)",
+   "escena 10: pasos policia (Le grita que se detenga.)",
+   "escena 11: actor policia → detener (Mantiene el arma apuntada mientras ordena.)",
+   "escena 15: actor policia → detener (La biblia dice que lo esposa.)",
+   "escena 16: actor bruno_hauptmann → caminar (Es llevado detenido; expresión derrotada.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 15 — EL GARAJE",
+  "revisor": [
+   "escena 1: quitar_objeto farola (Una farola de calle no va dentro del garaje de la casa.)",
+   "escena 1: quitar_objeto cubo (Utilería de exterior dentro del garaje; sobra.)",
+   "escena 1: actor oficial → senalar (La narración dice que ilumina la lata con la linterna; debe sostenerla.)",
+   "escena 2: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 2: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 2: agregar_objeto barril (La narración habla de una lata de combustible; debe verse el recipiente que se abre.)",
+   "escena 2: actor oficial → espiar (Ilumina y examina el interior de la lata con la linterna.)",
+   "escena 3: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 3: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 4: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 4: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 5: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 5: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 5: agregar_actor investigador → sorpresa (El oficial le habla al investigador; debe estar presente y reaccionar.)",
+   "escena 6: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 6: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 6: agregar_actor oficial → asentir (El investigador le pregunta al oficial; debe estar y responder.)",
+   "escena 7: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 7: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 7: agregar_actor investigador → asentir (El oficial le confirma los números al investigador; debe estar presente.)",
+   "escena 8: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 8: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 8: agregar_actor oficial → asentir (El investigador da la orden al oficial; debe estar y recibirla.)",
+   "escena 9: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 9: quitar_objeto cubo (Utilería de exterior dentro del garaje.)",
+   "escena 10: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 11: quitar_objeto farola (Farola de calle dentro del garaje.)",
+   "escena 12: quitar_objeto farola (Farola de calle dentro del garaje.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 16 — EL ANÁLISIS DE LA MADERA",
+  "revisor": [
+   "escena 1: actor experto_koehler → leer (La narración dice que examinó cuidadosamente la escalera; debe examinar con lupa, no pasea)",
+   "escena 1: agregar_objeto escalera (La narración nombra la escalera examinada; debe estar presente.)",
+   "escena 2: actor experto_koehler → señalar (Determinar origen y coincidencias: comparar y señalar las piezas, no solo pensar.)",
+   "escena 3: actor experto_koehler → señalar (Estudia marcas de herramientas y patrones: debe señalar las marcas en la madera.)",
+   "escena 4: actor experto_koehler → señalar (Vincula la pieza con la tabla del ático: señala la coincidencia, expresión seria.)",
+   "escena 5: actor experto_koehler → señalar (Estudia marcas de herramientas: señala las marcas concretas.)",
+   "escena 7: actor experto_koehler → asentir (Escucha la pregunta del investigador; debe reaccionar, no quedarse pensando congelado.)",
+   "escena 9: actor experto_koehler → señalar (La madera es pieza clave de la acusación: señala la evidencia con seriedad.)"
+  ],
+  "reglas": [
+   "escena 1: no hay escalera dentro de una sala"
+  ]
+ },
+ {
+  "bloque": "ESCENA 17 — LAS CARTAS Y LA ESCRITURA",
+  "revisor": [
+   "escena 1: agregar_objeto escritorio (Las cartas y muestras de escritura se extienden sobre la mesa; falta la superficie donde s)",
+   "escena 3: actor investigador → senalar (Señala las semejanzas sobre la carta que sostiene.)",
+   "escena 8: actor bruno_hauptmann → negar (La biblia dice que niega con la cabeza y evita mirar a los ojos; debe negar, no solo habla)",
+   "escena 9: actor investigador → hablar (Sigue mostrando la nota mientras exige explicaciones.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 18 — FLEMINGTON, NUEVA JERSEY",
+  "revisor": [
+   "escena 2: quitar_actor periodista1 (La prensa nunca está dentro de la sala del tribunal; los periodistas esperan afuera del ed)",
+   "escena 2: quitar_actor periodista2 (La prensa nunca está dentro de la sala del tribunal; los periodistas esperan afuera del ed)",
+   "escena 3: quitar_actor periodista1 (La prensa nunca está dentro de la sala del tribunal; los periodistas esperan afuera del ed)",
+   "escena 3: quitar_actor periodista2 (La prensa nunca está dentro de la sala del tribunal; los periodistas esperan afuera del ed)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 19 — EL INTERROGATORIO",
+  "revisor": [
+   "escena 1: actor bruno_hauptmann → negar (Debe secarse el sudor con un pañuelo mientras niega; se le da un objeto de mano coherente.)",
+   "escena 1: actor defensor → manos_cadera (La biblia lo tiene golpeando la mesa al objetar; sentado y serio no refleja su papel.)",
+   "escena 1: actor charles_lindbergh → cruzar_brazos (Observa con ceño fruncido y puños apretados; cruzar brazos lo muestra.)",
+   "escena 1: actor anne_morrow → suspirar (Baja la mirada y juguetea con un pañuelo; sentada triste sin gesto no actúa.)",
+   "escena 2: agregar_actor bruno_hauptmann → negar (Es el interrogado; debe estar presente reaccionando a las preguntas.)",
+   "escena 3: agregar_actor fiscal → señalar (En un diálogo se ve a quien habla y a quien escucha; el fiscal debe estar.)",
+   "escena 4: agregar_actor bruno_hauptmann → negar (El interrogado debe estar presente y reaccionar.)",
+   "escena 5: agregar_actor fiscal → señalar (Quien pregunta debe estar en escena.)",
+   "escena 6: agregar_actor bruno_hauptmann → negar (El acusado debe estar presente durante las preguntas.)",
+   "escena 7: agregar_actor fiscal → señalar (El fiscal debe estar escuchando la respuesta.)",
+   "escena 8: actor defensor → manos_cadera (La objeción se hace de pie golpeando la mesa; hablar sentado no lo muestra.)",
+   "escena 8: agregar_actor juez → señalar (El juez debe intervenir para mantener el orden tras la objeción.)",
+   "escena 9: agregar_actor defensor → cruzar_brazos (La defensa reacciona a la decisión del juez.)",
+   "escena 9: agregar_actor fiscal → asentir (El fiscal recibe la indicación del juez de continuar.)",
+   "escena 10: actor defensor → manos_cadera (La defensa objeta de pie; sentado y serio no refleja la tensión.)",
+   "escena 10: actor anne_morrow → suspirar (Juguetea con un pañuelo y baja la mirada; sentada sin gesto no actúa.)",
+   "escena 10: pasos charles_lindbergh (Debe mostrar la tensión con puños apretados y ceño fruncido.)",
+   "escena 11: actor fiscal → enumerar (Presenta argumentos enumerando pruebas; explicar con billetes no lo muestra.)",
+   "escena 13: agregar_actor defensor → cruzar_brazos (La defensa escucha y reacciona a la enumeración de pruebas.)",
+   "escena 14: actor charles_lindbergh → cruzar_brazos (Pensar sentado no refleja la tensión de recordar que no hay grabación.)",
+   "escena 15: actor anne_morrow → suspirar (Pensar sentada no muestra su dolor; debe bajar la mirada.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 20 — EL VEREDICTO",
+  "revisor": [
+   "escena 1: actor juez → leer (El juez recibe y lee el veredicto; mirar_reloj no corresponde al momento.)",
+   "escena 2: actor anne_morrow → preocuparse (La madre debe mostrarse angustiada, no con expresión neutra.)",
+   "escena 3: actor bruno_hauptmann → negar (Al oír el veredicto grita su inocencia, no solo niega asustado.)",
+   "escena 5: actor juez → leer (Lee el veredicto recibido del jurado.)",
+   "escena 6: agregar_actor oficial → detener (Los agentes lo sujetan por los brazos al ponerse de pie de un salto.)",
+   "escena 8: actor defensor → explicar (Anuncia la apelación con su carpeta en mano.)",
+   "escena 8: pasos defensor (Cierra la carpeta con resignación y anuncia la apelación.)",
+   "escena 9: actor bruno_hauptmann → desesperarse (Expresión 'desesperado' no existe; usar 'aterrado'.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 21 — PRISIÓN ESTATAL DE TRENTON",
+  "revisor": [
+   "escena 2: actor defensor → asentir (El defensor debe escuchar y reaccionar a la esposa, no ser el único que habla.)",
+   "escena 3: actor bruno_hauptmann → negar (La narración dice que el condenado mantuvo su versión: debe negar/gesticular su versión, n)",
+   "escena 5: actor bruno_hauptmann → caminar (La biblia lo describe esposado y flanqueado por guardias, resignado; debe caminar con expr)",
+   "escena 5: quitar_objeto silla (La silla eléctrica no se muestra; se sugiere con la puerta y la luz fría, no con utilería )",
+   "escena 6: actor oficial → explicar (Las autoridades sostienen que el caso tenía un responsable; el oficial debe explicar con s)",
+   "escena 7: actor defensor → pensar (La escena es de transición reflexiva; el defensor debe pensar con la carpeta, coherente co)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 22 — LAS DUDAS QUE SOBREVIVIERON",
+  "revisor": [
+   "escena 1: actor detective → pensar (Repasa el caso: debe tener libreta y no solo caminar de un lado a otro.)",
+   "escena 2: actor detective → senalar (Señala la pared de evidencias; conserva la libreta del repaso.)",
+   "escena 3: agregar_actor detective → pensar (La narración habla de la duda sobre Hauptmann y el detective debe estar presente frente a )",
+   "escena 3: actor asistente → dudar (El asistente duda con la libreta en mano; no camina sin motivo.)",
+   "escena 5: agregar_actor asistente → asentir (El asistente escucha la conclusión del detective y reacciona.)",
+   "escena 10: agregar_actor asistente → escribir (El asistente anota el veredicto mientras el detective señala.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 23 — WASHINGTON D. C.",
+  "revisor": [
+   "escena 2: actor investigador → escribir (Debe anotar los puntos sobre coordinación interestatal en su libreta, no solo leer.)",
+   "escena 4: actor investigador → pensar (La tragedia lo afecta; debe mostrar preocupación mientras hojea el expediente.)",
+   "escena 5: actor investigador → asentir (Escucha la coordinación entre autoridades y asiente; se mantiene serio.)",
+   "escena 7: actor investigador → escribir (Anota los elementos centrales del proceso; escribir con libreta lo muestra.)"
+  ],
+  "reglas": []
+ },
+ {
+  "bloque": "ESCENA 24 — LA MANSIÓN EN LA ACTUALIDAD",
+  "revisor": [
+   "escena 9: agregar_actor john_condon → sentado (La narración habla del intermediario; debe estar el personaje en el sillón.)",
+   "escena 11: agregar_actor juez → hablar (La narración menciona el juicio; el juez en el estrado lo representa.)",
+   "escena 11: agregar_actor fiscal → enumerar (El juicio necesita a la acusación presente.)",
+   "escena 17: actor detective → escribir (Cierra la carpeta LINDBERGH y anota; la carpeta debe estar en la mesa, no en la mano.)"
+  ],
+  "reglas": [
+   "escena 1: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 2: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 3: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 4: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 5: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 6: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 12: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 14: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 15: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)",
+   "escena 16: se quitan árboles o escaleras sueltos (el jardín es siempre el mismo)"
+  ]
+ }
+]

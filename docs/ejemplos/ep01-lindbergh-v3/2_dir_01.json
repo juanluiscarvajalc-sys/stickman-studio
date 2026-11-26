@@ -1,0 +1,801 @@
+{
+ "escenas": [
+  {
+   "narracion": "Nueva Jersey. Estados Unidos. Primero de marzo de 1932.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": "1 de marzo de 1932"
+  },
+  {
+   "narracion": "Son aproximadamente las nueve de la noche.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "grua_sube",
+    "plano": "general",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "En una elegante residencia situada cerca de Hopewell, una familia se prepara para terminar otro día aparentemente normal.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "paneo_der",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Pero hay algo que ninguno de sus habitantes sabe.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Alguien está observando la casa desde el exterior.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "observando",
+       "accion": "espiar",
+       "expresion": "sospechoso",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "exterior",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Alguien ha estudiado sus movimientos.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "estudiado",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "movimientos",
+       "accion": "espiar",
+       "expresion": "sospechoso",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "primer_plano",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Y esa persona ha llegado con un propósito que cambiará sus vidas para siempre.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "propósito",
+       "accion": "pensar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "siempre",
+       "accion": "espiar",
+       "expresion": "sospechoso",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "alejamiento",
+    "plano": "general",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "El objetivo no es el dinero que guarda la familia.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "objetivo",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "dinero",
+       "accion": "negar",
+       "expresion": "serio",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "paneo_izq",
+    "plano": "medio",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "No es un objeto de valor.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "objeto",
+       "accion": "negar",
+       "expresion": "serio",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "valor",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "primer_plano",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Es un niño de apenas veinte meses.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "niño",
+       "accion": "pensar",
+       "expresion": "decidido",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "meses",
+       "accion": "espiar",
+       "expresion": "sospechoso",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "El hijo de uno de los hombres más admirados de Estados Unidos.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "exterior_mansion",
+    "lugar": "mansion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [
+    {
+     "id": "secuestrador",
+     "x": -4.05,
+     "z": -1.45,
+     "accion": "espiar",
+     "expresion": "sospechoso",
+     "hacia": null,
+     "mano": null,
+     "pasos": [
+      {
+       "cuando": "hijo",
+       "accion": "pensar",
+       "expresion": "pensativo",
+       "hacia": null,
+       "mano": null
+      },
+      {
+       "cuando": "Estados",
+       "accion": "espiar",
+       "expresion": "sospechoso",
+       "hacia": null,
+       "mano": null
+      }
+     ]
+    }
+   ],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -4.05,
+     "z": -1.45,
+     "escala": 1.5,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "farol",
+     "x": 3.5,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "paneo_der",
+    "plano": "medio",
+    "objetivo": "secuestrador"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Su nombre es Charles Augustus Lindbergh Jr.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "habitacion_bebe",
+    "lugar": "habitacion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "cuna",
+     "x": 0,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "sillon",
+     "x": 2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "lampara",
+     "x": -2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "acercamiento",
+    "plano": "medio",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": "Y antes de que termine aquella noche, habrá desaparecido.",
+   "habla": null,
+   "titulo": null,
+   "ambiente": {
+    "escenario": "habitacion_bebe",
+    "lugar": "habitacion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "cuna",
+     "x": 0,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "sillon",
+     "x": 2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "lampara",
+     "x": -2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "alejamiento",
+    "plano": "general",
+    "objetivo": "objeto:0"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  },
+  {
+   "narracion": null,
+   "habla": null,
+   "titulo": "EL SECUESTRO DEL BEBÉ LINDBERGH",
+   "ambiente": {
+    "escenario": "habitacion_bebe",
+    "lugar": "habitacion",
+    "hora": "noche",
+    "clima": "despejado"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "cuna",
+     "x": 0,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "sillon",
+     "x": 2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    },
+    {
+     "tipo": "lampara",
+     "x": -2.5,
+     "z": 0.5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "material": "normal"
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null
+  }
+ ]
+}

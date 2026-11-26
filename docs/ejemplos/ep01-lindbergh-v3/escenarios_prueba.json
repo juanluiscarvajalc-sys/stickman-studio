@@ -1,0 +1,3003 @@
+{
+ "titulo": "Escenarios",
+ "formato": "horizontal",
+ "modo": "episodio",
+ "estilo": "noir",
+ "epoca": 1932,
+ "personajes": [],
+ "escenas": [
+  {
+   "id": 1,
+   "narracion": "",
+   "inicio": 0,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "mansion",
+    "hora": "noche",
+    "semilla": 1,
+    "clima": "despejado",
+    "escenario": "exterior_mansion"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      -1.5,
+      2.4,
+      9
+     ],
+     "mira": [
+      3.1,
+      3.2,
+      -8.5
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 2,
+   "narracion": "",
+   "inicio": 4,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "mansion",
+    "hora": "noche",
+    "semilla": 2,
+    "clima": "nublado",
+    "escenario": "exterior_mansion"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      -1.5,
+      2.4,
+      9
+     ],
+     "mira": [
+      3.1,
+      3.2,
+      -8.5
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 3,
+   "narracion": "",
+   "inicio": 8,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "mansion",
+    "hora": "dia",
+    "semilla": 3,
+    "clima": "despejado",
+    "escenario": "exterior_mansion"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "arbol",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      -1.5,
+      2.4,
+      9
+     ],
+     "mira": [
+      3.1,
+      3.2,
+      -8.5
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 4,
+   "narracion": "",
+   "inicio": 12,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "habitacion",
+    "hora": "noche",
+    "semilla": 4,
+    "clima": "despejado",
+    "escenario": "habitacion_bebe"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0.6,
+      1.8,
+      4.2
+     ],
+     "mira": [
+      -0.4,
+      1.2,
+      -4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 5,
+   "narracion": "",
+   "inicio": 16,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "habitacion",
+    "hora": "noche",
+    "semilla": 5,
+    "clima": "nublado",
+    "escenario": "habitacion_bebe"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0.6,
+      1.8,
+      4.2
+     ],
+     "mira": [
+      -0.4,
+      1.2,
+      -4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 6,
+   "narracion": "",
+   "inicio": 20,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "habitacion",
+    "hora": "dia",
+    "semilla": 6,
+    "clima": "despejado",
+    "escenario": "habitacion_bebe"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0.6,
+      1.8,
+      4.2
+     ],
+     "mira": [
+      -0.4,
+      1.2,
+      -4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 7,
+   "narracion": "",
+   "inicio": 24,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "calle",
+    "hora": "dia",
+    "semilla": 7,
+    "clima": "despejado",
+    "escenario": "calle_nueva_york"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -4.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 4.6,
+     "z": -6,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "kiosco",
+     "x": -4.6,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "buzon",
+     "x": 4.6,
+     "z": -14,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.6,
+      10
+     ],
+     "mira": [
+      0,
+      1.6,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 10,
+     "x": -5.6,
+     "z": -3,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      -5.6,
+      4
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 10,
+     "x": 5.6,
+     "z": -2,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      5.6,
+      -6
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -4,
+     "ancho": 5,
+     "fondo": 2.5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 8,
+   "narracion": "",
+   "inicio": 28,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "calle",
+    "hora": "atardecer",
+    "semilla": 8,
+    "clima": "nublado",
+    "escenario": "calle_nueva_york"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "farola",
+     "x": -4.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "auto",
+     "x": 4.6,
+     "z": -6,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "kiosco",
+     "x": -4.6,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "buzon",
+     "x": 4.6,
+     "z": -14,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.6,
+      10
+     ],
+     "mira": [
+      0,
+      1.6,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 10,
+     "x": -5.6,
+     "z": -3,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      -5.6,
+      4
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 10,
+     "x": 5.6,
+     "z": -2,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      5.6,
+      -6
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 10,
+     "x": 0,
+     "z": -4,
+     "ancho": 5,
+     "fondo": 2.5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 9,
+   "narracion": "",
+   "inicio": 32,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "aerodromo",
+    "hora": "dia",
+    "semilla": 9,
+    "clima": "despejado",
+    "escenario": "aerodromo"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": -3,
+     "z": -6.5,
+     "escala": 1,
+     "giro": 0.35,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "barril",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "cajas",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "arbol",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      7,
+      2.2,
+      7
+     ],
+     "mira": [
+      -3,
+      1.4,
+      -6.5
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 15,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": 0,
+     "z": -4,
+     "ancho": 5,
+     "fondo": 2.5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 10,
+   "narracion": "",
+   "inicio": 36,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "aerodromo",
+    "hora": "atardecer",
+    "semilla": 10,
+    "clima": "nublado",
+    "escenario": "aerodromo"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": -3,
+     "z": -6.5,
+     "escala": 1,
+     "giro": 0.35,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "barril",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "cajas",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "arbol",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      7,
+      2.2,
+      7
+     ],
+     "mira": [
+      -3,
+      1.4,
+      -6.5
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 15,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": 0,
+     "z": -4,
+     "ancho": 5,
+     "fondo": 2.5,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 11,
+   "narracion": "",
+   "inicio": 40,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "cielo",
+    "hora": "dia",
+    "semilla": 11,
+    "clima": "despejado",
+    "escenario": "cielo"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "vuela",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": null,
+     "mira": null
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 12,
+   "narracion": "",
+   "inicio": 44,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "cielo",
+    "hora": "atardecer",
+    "semilla": 12,
+    "clima": "nublado",
+    "escenario": "cielo"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "avion",
+     "x": 0,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "vuela",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": null,
+     "mira": null
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 13,
+   "narracion": "",
+   "inicio": 48,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "cabina",
+    "hora": "dia",
+    "semilla": 13,
+    "clima": "despejado",
+    "escenario": "cabina_avion"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0.7,
+      1.45,
+      2.3
+     ],
+     "mira": [
+      -0.3,
+      1,
+      -0.6
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 14,
+   "narracion": "",
+   "inicio": 52,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "cabina",
+    "hora": "atardecer",
+    "semilla": 14,
+    "clima": "nublado",
+    "escenario": "cabina_avion"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0.7,
+      1.45,
+      2.3
+     ],
+     "mira": [
+      -0.3,
+      1,
+      -0.6
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 15,
+   "narracion": "",
+   "inicio": 56,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "cementerio",
+    "hora": "noche",
+    "semilla": 15,
+    "clima": "niebla",
+    "escenario": "cementerio_woodlawn"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "lapida",
+     "x": -6,
+     "z": -12,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": -1.4,
+     "z": -12,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": 2,
+     "z": -12,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": 6.6,
+     "z": -12,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": -6,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": -1.4,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": 2,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": 6.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": -6,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "lapida",
+     "x": -1.4,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.9,
+      8
+     ],
+     "mira": [
+      0,
+      1,
+      -10
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 16,
+   "narracion": "",
+   "inicio": 60,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "puerto",
+    "hora": "dia",
+    "semilla": 16,
+    "clima": "nublado",
+    "escenario": "puerto_martha_vineyard"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "barril",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "cajas",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      -2,
+      2.6,
+      8
+     ],
+     "mira": [
+      3,
+      1.2,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 5,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 17,
+   "narracion": "",
+   "inicio": 64,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "puerto",
+    "hora": "atardecer",
+    "semilla": 17,
+    "clima": "despejado",
+    "escenario": "puerto_martha_vineyard"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "barril",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "cajas",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      -2,
+      2.6,
+      8
+     ],
+     "mira": [
+      3,
+      1.2,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 5,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 18,
+   "narracion": "",
+   "inicio": 68,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "bosque",
+    "hora": "atardecer",
+    "semilla": 18,
+    "clima": "despejado",
+    "escenario": "bosque_hopewell"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "pino",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "arbusto",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      8
+     ],
+     "mira": [
+      0,
+      1.6,
+      -10
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 8,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 19,
+   "narracion": "",
+   "inicio": 72,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "bosque",
+    "hora": "dia",
+    "semilla": 19,
+    "clima": "nublado",
+    "escenario": "bosque_hopewell"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "pino",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "arbusto",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      8
+     ],
+     "mira": [
+      0,
+      1.6,
+      -10
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 8,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 20,
+   "narracion": "",
+   "inicio": 76,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "bosque",
+    "hora": "dia",
+    "semilla": 20,
+    "clima": "despejado",
+    "escenario": "bosque_hopewell"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "pino",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "arbusto",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "valla",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      8
+     ],
+     "mira": [
+      0,
+      1.6,
+      -10
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 8,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 21,
+   "narracion": "",
+   "inicio": 80,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "oficina",
+    "hora": "dia",
+    "semilla": 21,
+    "clima": "despejado",
+    "escenario": "oficina_investigacion"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      4.4
+     ],
+     "mira": [
+      0,
+      1.3,
+      -4.4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 22,
+   "narracion": "",
+   "inicio": 84,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "oficina",
+    "hora": "dia",
+    "semilla": 22,
+    "clima": "nublado",
+    "escenario": "oficina_investigacion"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      4.4
+     ],
+     "mira": [
+      0,
+      1.3,
+      -4.4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 23,
+   "narracion": "",
+   "inicio": 88,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "oficina",
+    "hora": "noche",
+    "semilla": 23,
+    "clima": "nublado",
+    "escenario": "oficina_investigacion"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      4.4
+     ],
+     "mira": [
+      0,
+      1.3,
+      -4.4
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 24,
+   "narracion": "",
+   "inicio": 92,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "gasolinera",
+    "hora": "dia",
+    "semilla": 24,
+    "clima": "despejado",
+    "escenario": "gasolinera"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "auto",
+     "x": -5,
+     "z": -6,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "barril",
+     "x": 5.5,
+     "z": -5,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "cajas",
+     "x": -6,
+     "z": -1,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 6,
+     "z": 0,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2,
+      7
+     ],
+     "mira": [
+      0,
+      1.8,
+      -8
+     ]
+    }
+   ],
+   "multitudes": [],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 25,
+   "narracion": "",
+   "inicio": 96,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "calle",
+    "hora": "noche",
+    "semilla": 25,
+    "clima": "nublado",
+    "escenario": "casa_hauptmann"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "auto",
+     "x": -4.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 4.6,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "buzon",
+     "x": -4.6,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": 4.6,
+     "z": -14,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.6,
+      10
+     ],
+     "mira": [
+      0,
+      1.6,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": -5.6,
+     "z": -3,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      -5.6,
+      4
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": 5.6,
+     "z": -2,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      5.6,
+      -6
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "guardias",
+     "cantidad": 4,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 26,
+   "narracion": "",
+   "inicio": 100,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "calle",
+    "hora": "dia",
+    "semilla": 26,
+    "clima": "despejado",
+    "escenario": "casa_hauptmann"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "auto",
+     "x": -4.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 4.6,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "buzon",
+     "x": -4.6,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": 4.6,
+     "z": -14,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.6,
+      10
+     ],
+     "mira": [
+      0,
+      1.6,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": -5.6,
+     "z": -3,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      -5.6,
+      4
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": 5.6,
+     "z": -2,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      5.6,
+      -6
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "guardias",
+     "cantidad": 4,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 27,
+   "narracion": "",
+   "inicio": 104,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "calle",
+    "hora": "dia",
+    "semilla": 27,
+    "clima": "nublado",
+    "escenario": "casa_hauptmann"
+   },
+   "actores": [],
+   "objetos": [
+    {
+     "tipo": "auto",
+     "x": -4.6,
+     "z": -9,
+     "escala": 1,
+     "giro": 1.5707963267948966,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "farola",
+     "x": 4.6,
+     "z": -6,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "buzon",
+     "x": -4.6,
+     "z": -2,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    },
+    {
+     "tipo": "seto",
+     "x": 4.6,
+     "z": -14,
+     "escala": 1,
+     "giro": 0,
+     "estado": "normal",
+     "t": 0.5,
+     "material": "normal"
+    }
+   ],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "panoramico",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "panoramico",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.6,
+      10
+     ],
+     "mira": [
+      0,
+      1.6,
+      -14
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": -5.6,
+     "z": -3,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      -5.6,
+      4
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 4,
+     "x": 5.6,
+     "z": -2,
+     "ancho": 2,
+     "fondo": 10,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      5.6,
+      -6
+     ],
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "guardias",
+     "cantidad": 4,
+     "x": 0,
+     "z": -14,
+     "ancho": 14,
+     "fondo": 5,
+     "formacion": "grupo",
+     "accion": "marchar",
+     "hacia": [
+      10,
+      -14
+     ],
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 28,
+   "narracion": "",
+   "inicio": 108,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "tribunal",
+    "hora": "dia",
+    "semilla": 28,
+    "clima": "despejado",
+    "escenario": "tribunal_flemington"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.4,
+      6
+     ],
+     "mira": [
+      0,
+      1.6,
+      -7
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": -2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 5,
+     "x": 2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 29,
+   "narracion": "",
+   "inicio": 112,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "tribunal",
+    "hora": "dia",
+    "semilla": 29,
+    "clima": "nublado",
+    "escenario": "tribunal_flemington"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.4,
+      6
+     ],
+     "mira": [
+      0,
+      1.6,
+      -7
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": -2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "transeuntes",
+     "cantidad": 5,
+     "x": 2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 30,
+   "narracion": "",
+   "inicio": 116,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "carcel",
+    "hora": "noche",
+    "semilla": 30,
+    "clima": "nublado",
+    "escenario": "prision_trenton"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.8,
+      4
+     ],
+     "mira": [
+      0,
+      1.3,
+      -6.5
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "guardias",
+     "cantidad": 5,
+     "x": -0.3999999999999999,
+     "z": -2.4,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": {
+      "camisa": "#26324a",
+      "pantalon": "#26324a",
+      "sombrero": "gorra_policia",
+      "colorSombrero": "#1e2638"
+     },
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 31,
+   "narracion": "",
+   "inicio": 120,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "tribunal",
+    "hora": "dia",
+    "semilla": 31,
+    "clima": "nublado",
+    "escenario": "congreso_eeuu"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      2.4,
+      6
+     ],
+     "mira": [
+      0,
+      1.6,
+      -7
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 5,
+     "x": -2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": 2.2,
+     "z": -0.6,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  },
+  {
+   "id": 32,
+   "narracion": "",
+   "inicio": 124,
+   "duracion": 4,
+   "ambiente": {
+    "lugar": "supermercado",
+    "hora": "dia",
+    "semilla": 32,
+    "clima": "despejado",
+    "escenario": "supermercado"
+   },
+   "actores": [],
+   "objetos": [],
+   "camara": {
+    "tipo": "plano_general",
+    "plano": "general",
+    "objetivo": "grupo"
+   },
+   "tomas": [
+    {
+     "t": 0,
+     "objetivo": "grupo",
+     "plano": "general",
+     "angulo": "frente",
+     "mov": "empuje",
+     "desde": null,
+     "pos": [
+      0,
+      1.9,
+      4.6
+     ],
+     "mira": [
+      0,
+      1.3,
+      -6
+     ]
+    }
+   ],
+   "multitudes": [
+    {
+     "tipo": "transeuntes",
+     "cantidad": 5,
+     "x": -0.5999999999999999,
+     "z": -2.4,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    },
+    {
+     "tipo": "prensa",
+     "cantidad": 5,
+     "x": 0.5999999999999999,
+     "z": -2.4,
+     "ancho": 2.6,
+     "fondo": 1.4,
+     "formacion": "grupo",
+     "accion": "parado",
+     "hacia": null,
+     "mano": null,
+     "uniforme": null,
+     "t": null
+    }
+   ],
+   "luces": [],
+   "fondo": null,
+   "fondoImg": null,
+   "transicion": "corte",
+   "efectos": [],
+   "rotulo": null,
+   "titulo": null,
+   "subtitulo": null,
+   "habla": null,
+   "capitulo": null
+  }
+ ]
+}

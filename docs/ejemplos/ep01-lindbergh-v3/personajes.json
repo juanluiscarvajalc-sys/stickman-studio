@@ -1,0 +1,1320 @@
+[
+ {
+  "id": "charles_lindbergh",
+  "nombre": "Charles Lindbergh",
+  "complexion": "alto",
+  "piel": "#e8c9a8",
+  "camisa": "#d9d4c5",
+  "pantalon": "#3b4a5a",
+  "zapatos": "#2a1f18",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "raya_lado",
+  "ropa": "traje",
+  "colorRopa2": "#3b4a5a",
+  "rasgos": [
+   "ojeras",
+   "cejas",
+   "arrugas"
+  ],
+  "papel": "Aviador célebre, padre del bebé secuestrado",
+  "edad": 30,
+  "colorPelo": "#a67c52",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo"
+  ],
+  "colorAccesorio": "#7a2e2e",
+  "vestuarios": [
+   {
+    "complexion": "alto",
+    "piel": "#e8c9a8",
+    "camisa": "#8b5a2b",
+    "pantalon": "#4a3a2a",
+    "zapatos": "#2a1f18",
+    "sombrero": "casco_aviador",
+    "colorSombrero": "#6b4423",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "raya_lado",
+    "ropa": "chaqueta_cuero",
+    "colorRopa2": "#6b4423",
+    "rasgos": [
+     "ojeras",
+     "cejas",
+     "arrugas"
+    ],
+    "colorPelo": "#a67c52",
+    "accesorios": [
+     "bufanda",
+     "guantes"
+    ],
+    "colorAccesorio": "#c9b89a",
+    "id": "aviador",
+    "lugares": [
+     "aerodromo",
+     "cielo",
+     "cabina"
+    ],
+    "usar": "cuando vuela"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "carta",
+  "expresionesTipicas": [
+   "preocupado",
+   "decidido",
+   "triste",
+   "serio"
+  ],
+  "porque": "Aviador alto y delgado de traje gris azulado con raya al lado, corbata burdeos y ojeras de padre atormentado; su versión de cuero con casco de aviador y bufanda lo distingue de cualquier otro hombre de traje."
+ },
+ {
+  "id": "anne_morrow",
+  "nombre": "Anne Morrow Lindbergh",
+  "complexion": "delgado",
+  "piel": "#f2d3b8",
+  "camisa": "#4a5d6b",
+  "pantalon": "#3b3f52",
+  "zapatos": "#3a2a20",
+  "sombrero": "cloche",
+  "colorSombrero": "#5b3a4a",
+  "vestido": "#4a5d6b",
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "mono",
+  "ropa": "liso",
+  "colorRopa2": "#e8e0d0",
+  "rasgos": [
+   "mejillas",
+   "ojeras",
+   "cejas"
+  ],
+  "papel": "Esposa de Charles, madre del bebé",
+  "edad": 25,
+  "colorPelo": "#3b2a1e",
+  "accesorios": [
+   "collar_perlas",
+   "aretes",
+   "guantes"
+  ],
+  "colorAccesorio": "#f5f0e6",
+  "estampado": "lunares",
+  "vestuarios": [
+   {
+    "complexion": "delgado",
+    "piel": "#f2d3b8",
+    "camisa": "#7a8a9a",
+    "pantalon": "#3b3f52",
+    "zapatos": "#3a2a20",
+    "sombrero": "pelo",
+    "colorSombrero": "#4a3020",
+    "vestido": "#4a5d6b",
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "mono",
+    "ropa": "bata",
+    "colorRopa2": "#e8e0d0",
+    "rasgos": [
+     "mejillas",
+     "ojeras",
+     "cejas"
+    ],
+    "colorPelo": "#3b2a1e",
+    "accesorios": [
+     "aretes"
+    ],
+    "colorAccesorio": "#f5f0e6",
+    "estampado": "lunares",
+    "id": "bata_noche",
+    "lugares": [
+     "habitacion"
+    ],
+    "usar": "cuando sube las escaleras de noche"
+   },
+   {
+    "complexion": "delgado",
+    "piel": "#f2d3b8",
+    "camisa": "#2b2b33",
+    "pantalon": "#3b3f52",
+    "zapatos": "#3a2a20",
+    "sombrero": "velo",
+    "colorSombrero": "#1c1c22",
+    "vestido": "#2b2b33",
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "mono",
+    "ropa": "liso",
+    "colorRopa2": "#e8e0d0",
+    "rasgos": [
+     "mejillas",
+     "ojeras",
+     "cejas"
+    ],
+    "colorPelo": "#3b2a1e",
+    "accesorios": [
+     "collar_perlas",
+     "aretes",
+     "guantes"
+    ],
+    "colorAccesorio": "#f5f0e6",
+    "estampado": "liso",
+    "id": "luto_tribunal",
+    "lugares": [
+     "tribunal"
+    ],
+    "usar": "en el juicio"
+   }
+  ],
+  "sexo": "m",
+  "objetoTipico": "bebe",
+  "expresionesTipicas": [
+   "preocupado",
+   "asustado",
+   "triste"
+  ],
+  "porque": "Madre elegante de los años 30 en vestido azul petróleo de lunares con cloche y perlas, distinguible de Charles por el vestido, el moño y los colores fríos."
+ },
+ {
+  "id": "charles_jr",
+  "nombre": "Charles Augustus Lindbergh Jr.",
+  "complexion": "bebe",
+  "piel": "#f2d3c0",
+  "camisa": "#f5f0e4",
+  "pantalon": "#3b3f52",
+  "zapatos": "#4a3426",
+  "sombrero": "gorro_bebe",
+  "colorSombrero": "#cfe3f0",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "pelusa",
+  "ropa": "mameluco",
+  "colorRopa2": "#cfe3f0",
+  "rasgos": [
+   "mejillas"
+  ],
+  "papel": "Bebé secuestrado",
+  "edad": 1,
+  "colorPelo": "#e8d9a8",
+  "accesorios": [
+   "cuello_blanco"
+  ],
+  "colorAccesorio": "#cfe3f0",
+  "vestuarios": [
+   {
+    "complexion": "bebe",
+    "piel": "#f2d3c0",
+    "camisa": "#e9e2cf",
+    "pantalon": "#3b3f52",
+    "zapatos": "#4a3426",
+    "sombrero": "gorro_bebe",
+    "colorSombrero": "#cfe3f0",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "pelusa",
+    "ropa": "pijama",
+    "colorRopa2": "#b9c9d6",
+    "rasgos": [
+     "mejillas",
+     "ojeras"
+    ],
+    "colorPelo": "#e8d9a8",
+    "accesorios": [],
+    "colorAccesorio": "#cfe3f0",
+    "id": "pijama",
+    "lugares": [
+     "mansion",
+     "habitacion"
+    ],
+    "usar": "cuando duerme en su cuna"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "osito",
+  "expresionesTipicas": [
+   "dormido",
+   "neutral",
+   "llorando",
+   "asustado"
+  ],
+  "porque": "Bebé de cabeza grande con mameluco crema, gorro tejido celeste y osito en brazos: se reconoce al instante como el bebé de la casa Lindbergh, distinto del padre aviador y de la madre elegante."
+ },
+ {
+  "id": "secuestrador",
+  "nombre": "El desconocido",
+  "complexion": "delgado",
+  "piel": "#d8b89a",
+  "camisa": "#2f3a3d",
+  "pantalon": "#23262b",
+  "zapatos": "#141414",
+  "sombrero": "fedora",
+  "colorSombrero": "#23262b",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "engominado",
+  "ropa": "abrigo",
+  "colorRopa2": "#3a2f2a",
+  "rasgos": [
+   "ojeras",
+   "cejas",
+   "barba_corta"
+  ],
+  "papel": "Secuestrador y asesino",
+  "edad": 35,
+  "colorPelo": "#1c1410",
+  "accesorios": [
+   "guantes",
+   "cigarrillo"
+  ],
+  "colorAccesorio": "#e8e2d4",
+  "vestuarios": [
+   {
+    "complexion": "delgado",
+    "piel": "#d8b89a",
+    "camisa": "#2f3a3d",
+    "pantalon": "#23262b",
+    "zapatos": "#141414",
+    "sombrero": "fedora",
+    "colorSombrero": "#23262b",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "engominado",
+    "ropa": "abrigo",
+    "colorRopa2": "#3a2f2a",
+    "rasgos": [
+     "ojeras",
+     "cejas",
+     "barba_corta"
+    ],
+    "colorPelo": "#1c1410",
+    "accesorios": [
+     "guantes",
+     "cigarrillo"
+    ],
+    "colorAccesorio": "#e8e2d4",
+    "id": "escalada",
+    "lugares": [
+     "mansion",
+     "calle"
+    ],
+    "usar": "cuando carga la escalera y trepa a la ventana"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "linterna",
+  "expresionesTipicas": [
+   "serio",
+   "sospechoso",
+   "preocupado",
+   "decidido"
+  ]
+ },
+ {
+  "id": "john_condon",
+  "nombre": "John Francis Condon",
+  "complexion": "delgado",
+  "piel": "#e6c9a8",
+  "camisa": "#6b4a2f",
+  "pantalon": "#3f3a33",
+  "zapatos": "#241d16",
+  "sombrero": "pelo",
+  "colorSombrero": "#3a3f2e",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "entradas",
+  "ropa": "abrigo",
+  "colorRopa2": "#4a3a2a",
+  "rasgos": [
+   "arrugas",
+   "cejas",
+   "ojeras"
+  ],
+  "papel": "Intermediario en el rescate",
+  "edad": 72,
+  "colorPelo": "#e8e4da",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo",
+   "guantes"
+  ],
+  "colorAccesorio": "#7a2a2a",
+  "vestuarios": [
+   {
+    "complexion": "delgado",
+    "piel": "#e6c9a8",
+    "camisa": "#6b4a2f",
+    "pantalon": "#3f3a33",
+    "zapatos": "#241d16",
+    "sombrero": "fedora",
+    "colorSombrero": "#3a3f2e",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "entradas",
+    "ropa": "abrigo",
+    "colorRopa2": "#4a3a2a",
+    "rasgos": [
+     "arrugas",
+     "cejas",
+     "ojeras"
+    ],
+    "colorPelo": "#e8e4da",
+    "accesorios": [
+     "corbata",
+     "reloj_bolsillo",
+     "guantes"
+    ],
+    "colorAccesorio": "#7a2a2a",
+    "id": "cementerio",
+    "lugares": [
+     "cementerio"
+    ],
+    "usar": "cuando camina de noche entre las tumbas"
+   },
+   {
+    "complexion": "delgado",
+    "piel": "#e6c9a8",
+    "camisa": "#d9d4c5",
+    "pantalon": "#3f3a33",
+    "zapatos": "#241d16",
+    "sombrero": "fedora",
+    "colorSombrero": "#3a3f2e",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "entradas",
+    "ropa": "traje",
+    "colorRopa2": "#4a3a2a",
+    "rasgos": [
+     "arrugas",
+     "cejas",
+     "ojeras"
+    ],
+    "colorPelo": "#e8e4da",
+    "accesorios": [
+     "corbata",
+     "reloj_bolsillo"
+    ],
+    "colorAccesorio": "#7a2a2a",
+    "id": "tribunal",
+    "lugares": [
+     "tribunal"
+    ],
+    "usar": "cuando declara en el juicio"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "maletin",
+  "expresionesTipicas": [
+   "decidido",
+   "nervioso",
+   "preocupado",
+   "triste"
+  ],
+  "porque": "Anciano delgado con fedora verde oliva, abrigo marrón chocolate, bigote blanco y bastón/maletín: se reconoce como el intermediario de edad que lleva el dinero del rescate, distinto del aviador joven y del secuestrador de gabardina oscura."
+ },
+ {
+  "id": "bruno_hauptmann",
+  "nombre": "Bruno Richard Hauptmann",
+  "complexion": "adulto",
+  "piel": "#d8b08c",
+  "camisa": "#8a8f7a",
+  "pantalon": "#4a4238",
+  "zapatos": "#2b2620",
+  "sombrero": "fedora",
+  "colorSombrero": "#5a4a3a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "raya_lado",
+  "ropa": "gabardina",
+  "colorRopa2": "#6b5a45",
+  "rasgos": [
+   "ojeras",
+   "cejas",
+   "barba_corta",
+   "arrugas"
+  ],
+  "papel": "Sospechoso detenido, acusado de secuestro y asesinato",
+  "edad": 35,
+  "colorPelo": "#3a2a1a",
+  "accesorios": [],
+  "colorAccesorio": "#b0b0b0",
+  "vestuarios": [
+   {
+    "complexion": "adulto",
+    "piel": "#d8b08c",
+    "camisa": "#c9c2b0",
+    "pantalon": "#4a4238",
+    "zapatos": "#2b2620",
+    "sombrero": "fedora",
+    "colorSombrero": "#5a4a3a",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "raya_lado",
+    "ropa": "traje",
+    "colorRopa2": "#3d3a33",
+    "rasgos": [
+     "ojeras",
+     "cejas",
+     "barba_corta",
+     "arrugas"
+    ],
+    "colorPelo": "#3a2a1a",
+    "accesorios": [
+     "corbata"
+    ],
+    "colorAccesorio": "#7a2a2a",
+    "id": "juicio",
+    "lugares": [
+     "tribunal"
+    ],
+    "usar": "cuando está en el juicio"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "nota",
+  "expresionesTipicas": [
+   "nervioso",
+   "asustado",
+   "enojado",
+   "preocupado"
+  ],
+  "porque": "Su gabardina gastada, fedora marrón y mirada esquiva con ojeras lo identifican como el sospechoso esposado, distinto del secuestrador de gabardina oscura y del aviador elegante."
+ },
+ {
+  "id": "betty_gow",
+  "nombre": "Betty Gow",
+  "complexion": "adulto",
+  "piel": "#f0d5c0",
+  "camisa": "#3d4a5c",
+  "pantalon": "#3b3f52",
+  "zapatos": "#2b2b2b",
+  "sombrero": "cofia",
+  "colorSombrero": "#f7f4ec",
+  "vestido": "#3d4a5c",
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "mono",
+  "ropa": "uniforme_ninera",
+  "colorRopa2": "#f7f4ec",
+  "rasgos": [
+   "mejillas",
+   "pecas"
+  ],
+  "papel": "Niñera del bebé",
+  "edad": 28,
+  "colorPelo": "#6b4a2f",
+  "accesorios": [
+   "cuello_blanco",
+   "aretes"
+  ],
+  "colorAccesorio": "#e8e4da",
+  "estampado": "liso",
+  "sexo": "m",
+  "objetoTipico": "biberon",
+  "expresionesTipicas": [
+   "sonrisa",
+   "preocupado",
+   "aterrado",
+   "triste"
+  ],
+  "porque": "Niñera reconocible por la cofia blanca, el delantal sobre vestido azul petróleo y el moño bajo, distinta de la señora Morrow que lleva cloche, perlas y vestido gris azulado."
+ },
+ {
+  "id": "investigador",
+  "nombre": "Investigador policial",
+  "complexion": "robusto",
+  "piel": "#c99a6e",
+  "camisa": "#7a5c3a",
+  "pantalon": "#3d3a33",
+  "zapatos": "#241c14",
+  "sombrero": "fedora",
+  "colorSombrero": "#2f3b4a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#3d3a33",
+  "peinado": "entradas",
+  "ropa": "gabardina",
+  "colorRopa2": "#5a4632",
+  "rasgos": [
+   "arrugas",
+   "cejas",
+   "ojeras"
+  ],
+  "papel": "Detective a cargo del caso",
+  "edad": 45,
+  "colorPelo": "#b8b2a6",
+  "accesorios": [
+   "placa",
+   "corbata",
+   "reloj_bolsillo"
+  ],
+  "colorAccesorio": "#c9a227",
+  "sexo": "h",
+  "objetoTipico": "lupa",
+  "expresionesTipicas": [
+   "pensativo",
+   "preocupado",
+   "picaro",
+   "serio"
+  ],
+  "porque": "Detective robusto de gabardina marrón y fedora azul petróleo con placa dorada y bigote canoso, distinto del sospechoso encorvado y del aviador elegante."
+ },
+ {
+  "id": "john",
+  "nombre": "John (el hombre del cementerio)",
+  "complexion": "alto",
+  "piel": "#c9a882",
+  "camisa": "#3a2f3d",
+  "pantalon": "#23232a",
+  "zapatos": "#14141a",
+  "sombrero": "pelo",
+  "colorSombrero": "#1a1a1f",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "engominado",
+  "ropa": "abrigo",
+  "colorRopa2": "#1a1a1f",
+  "rasgos": [
+   "cejas",
+   "barba_corta"
+  ],
+  "papel": "Contacto de los secuestradores",
+  "edad": 35,
+  "colorPelo": "#2b1d14",
+  "accesorios": [
+   "guantes",
+   "cigarrillo",
+   "bufanda"
+  ],
+  "colorAccesorio": "#4a4450",
+  "vestuarios": [
+   {
+    "complexion": "alto",
+    "piel": "#c9a882",
+    "camisa": "#4a3f4d",
+    "pantalon": "#23232a",
+    "zapatos": "#14141a",
+    "sombrero": "fedora",
+    "colorSombrero": "#1a1a1f",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "engominado",
+    "ropa": "gabardina",
+    "colorRopa2": "#1a1a1f",
+    "rasgos": [
+     "cejas",
+     "barba_corta",
+     "ojeras"
+    ],
+    "colorPelo": "#2b1d14",
+    "accesorios": [
+     "guantes",
+     "cigarrillo"
+    ],
+    "colorAccesorio": "#4a4450",
+    "id": "oficina",
+    "lugares": [
+     "oficina",
+     "interior"
+    ],
+    "usar": "cuando verifica el maletín a plena luz"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "nota",
+  "expresionesTipicas": [
+   "serio",
+   "sospechoso",
+   "decidido",
+   "neutral"
+  ],
+  "porque": "Alto y delgado, abrigo ciruela oscuro con cuello subido, fedora calado y guantes: silueta oculta y amenazante que no se confunde con el detective ni con el secuestrador."
+ },
+ {
+  "id": "empleado_gasolinera",
+  "nombre": "Empleado de gasolinera",
+  "complexion": "delgado",
+  "piel": "#e8b98f",
+  "camisa": "#3f5a6b",
+  "pantalon": "#3f5a6b",
+  "zapatos": "#2b241c",
+  "sombrero": "gorra_plana",
+  "colorSombrero": "#4a5d3a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#2b241c",
+  "peinado": "liso",
+  "ropa": "overol",
+  "colorRopa2": "#2e4450",
+  "rasgos": [
+   "pecas",
+   "cejas"
+  ],
+  "papel": "Trabajador que anota la matrícula",
+  "edad": 25,
+  "colorPelo": "#c9a35c",
+  "accesorios": [
+   "tirantes"
+  ],
+  "colorAccesorio": "#7a5c3a",
+  "sexo": "h",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "pensativo",
+   "sospechoso",
+   "nervioso",
+   "picaro"
+  ],
+  "porque": "Overol azul petróleo con tirantes y gorra plana verde, delgado y pecoso: se reconoce al instante como el empleado de la gasolinera que anota matrículas, distinto de los trajes y gabardinas de los demás."
+ },
+ {
+  "id": "experto_koehler",
+  "nombre": "Arthur Koehler",
+  "complexion": "delgado",
+  "piel": "#e8c4a0",
+  "camisa": "#e9e6dc",
+  "pantalon": "#4a4438",
+  "zapatos": "#2e2a24",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "raya_lado",
+  "ropa": "bata",
+  "colorRopa2": "#6b7a5e",
+  "rasgos": [
+   "gafas",
+   "arrugas",
+   "cejas"
+  ],
+  "papel": "Experto en madera del Servicio Forestal",
+  "edad": 50,
+  "colorPelo": "#b8b2a6",
+  "accesorios": [
+   "guantes",
+   "corbata",
+   "reloj_bolsillo"
+  ],
+  "colorAccesorio": "#7a4a2f",
+  "vestuarios": [
+   {
+    "complexion": "delgado",
+    "piel": "#e8c4a0",
+    "camisa": "#8a7a5c",
+    "pantalon": "#4a4438",
+    "zapatos": "#2e2a24",
+    "sombrero": "pelo",
+    "colorSombrero": "#4a3020",
+    "vestido": null,
+    "bigote": null,
+    "cinturon": null,
+    "peinado": "raya_lado",
+    "ropa": "delantal",
+    "colorRopa2": "#6b7a5e",
+    "rasgos": [
+     "gafas",
+     "arrugas",
+     "cejas",
+     "ojeras"
+    ],
+    "colorPelo": "#b8b2a6",
+    "accesorios": [
+     "guantes",
+     "reloj_bolsillo"
+    ],
+    "colorAccesorio": "#7a4a2f",
+    "id": "trabajo",
+    "lugares": [
+     "oficina",
+     "interior"
+    ],
+    "usar": "cuando examina muestras de madera en el laboratorio"
+   }
+  ],
+  "sexo": "h",
+  "objetoTipico": "lupa",
+  "expresionesTipicas": [
+   "pensativo",
+   "serio",
+   "sonrisa",
+   "confundido"
+  ],
+  "porque": "Se reconoce como científico forestal por la bata clara, las gafas y la lupa, distinto de los policías y detectives por su complexión delgada, pelo canoso con raya al lado y delantal de trabajo terroso."
+ },
+ {
+  "id": "fiscal",
+  "nombre": "Fiscal del caso",
+  "complexion": "alto",
+  "piel": "#e8c9a8",
+  "camisa": "#2b3a55",
+  "pantalon": "#2b3a55",
+  "zapatos": "#1a1410",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "raya_lado",
+  "ropa": "terno",
+  "colorRopa2": "#1e2a40",
+  "rasgos": [
+   "gafas",
+   "arrugas",
+   "cejas",
+   "perilla"
+  ],
+  "papel": "Acusación en el juicio",
+  "edad": 50,
+  "colorPelo": "#c9c4b8",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo",
+   "pajarita"
+  ],
+  "colorAccesorio": "#8a1f2b",
+  "sexo": "h",
+  "objetoTipico": "carpeta",
+  "expresionesTipicas": [
+   "decidido",
+   "enojado",
+   "picaro",
+   "pensativo"
+  ],
+  "porque": "Fiscal alto de pelo canoso con gafas, perilla y terno azul marino con corbata burdeos; en el tribunal lleva toga negra, distinto del juez y del investigador por silueta, colores y perilla."
+ },
+ {
+  "id": "defensor",
+  "nombre": "Abogado defensor",
+  "complexion": "robusto",
+  "piel": "#e8c4a0",
+  "camisa": "#5c2a33",
+  "pantalon": "#3a1f26",
+  "zapatos": "#1a1410",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "engominado",
+  "ropa": "traje",
+  "colorRopa2": "#3a1f26",
+  "rasgos": [
+   "cejas",
+   "arrugas",
+   "ojeras"
+  ],
+  "papel": "Defensa de Hauptmann",
+  "edad": 45,
+  "colorPelo": "#2b1d14",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo",
+   "guantes"
+  ],
+  "colorAccesorio": "#b08d3c",
+  "sexo": "h",
+  "objetoTipico": "carpeta",
+  "expresionesTipicas": [
+   "pensativo",
+   "enojado",
+   "preocupado",
+   "picaro"
+  ],
+  "porque": "Abogado defensor robusto con toga negra en el tribunal y traje burdeos con corbata dorada y bigote grueso, inconfundible frente al fiscal alto de terno azul marino y perilla."
+ },
+ {
+  "id": "juez",
+  "nombre": "Juez del tribunal",
+  "complexion": "anciano",
+  "piel": "#e8c9a8",
+  "camisa": "#1c1c22",
+  "pantalon": "#1c1c22",
+  "zapatos": "#141418",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "entradas",
+  "ropa": "toga",
+  "colorRopa2": "#f5f0e4",
+  "rasgos": [
+   "gafas",
+   "arrugas",
+   "cejas",
+   "ojeras"
+  ],
+  "papel": "Juez presidente del juicio",
+  "edad": 60,
+  "colorPelo": "#e8e4da",
+  "accesorios": [
+   "cuello_blanco",
+   "reloj_bolsillo"
+  ],
+  "colorAccesorio": "#c9a227",
+  "sexo": "h",
+  "objetoTipico": "mazo",
+  "expresionesTipicas": [
+   "serio",
+   "decidido",
+   "cansado",
+   "pensativo"
+  ],
+  "porque": "Toga negra con cuello blanco, gafas y mazo: se reconoce al instante como juez; su pelo blanco con entradas y arrugas lo distinguen del fiscal y del defensor, que van de terno."
+ },
+ {
+  "id": "periodista1",
+  "nombre": "Periodista 1",
+  "complexion": "bajo",
+  "piel": "#e3b48f",
+  "camisa": "#4a6b8a",
+  "pantalon": "#3a3a3a",
+  "zapatos": "#2a2420",
+  "sombrero": "gorra_plana",
+  "colorSombrero": "#5a6b4a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#2a2420",
+  "peinado": "raya_lado",
+  "ropa": "gabardina",
+  "colorRopa2": "#5a6b4a",
+  "rasgos": [
+   "cejas",
+   "pecas"
+  ],
+  "papel": "Reportero gráfico",
+  "edad": 30,
+  "colorPelo": "#1c1410",
+  "accesorios": [
+   "credencial_prensa",
+   "corbata",
+   "cigarrillo"
+  ],
+  "colorAccesorio": "#8a2a2a",
+  "sexo": "h",
+  "objetoTipico": "camara_foto",
+  "expresionesTipicas": [
+   "feliz",
+   "pensativo",
+   "preocupado",
+   "sorpresa"
+  ],
+  "porque": "Reportero gráfico bajito y regordete con fedora verde oliva, credencial de PRENSA en la cinta, bigote fino y cámara con flash, distinto del detective y del sospechoso por su silueta baja y colores tierra."
+ },
+ {
+  "id": "periodista2",
+  "nombre": "Periodista 2",
+  "complexion": "bajo",
+  "piel": "#e8c9a8",
+  "camisa": "#b86a4a",
+  "pantalon": "#2f4a4a",
+  "zapatos": "#3a2a1e",
+  "sombrero": "pamela",
+  "colorSombrero": "#6b2f3a",
+  "vestido": "#b86a4a",
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "melena",
+  "ropa": "liso",
+  "colorRopa2": "#3a5a5a",
+  "rasgos": [
+   "gafas",
+   "mejillas",
+   "pecas"
+  ],
+  "papel": "Reportero de prensa",
+  "edad": 25,
+  "colorPelo": "#d9b85c",
+  "accesorios": [
+   "credencial_prensa",
+   "aretes",
+   "corbata"
+  ],
+  "colorAccesorio": "#c9a35c",
+  "sexo": "m",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "pensativo",
+   "serio",
+   "sorpresa",
+   "picaro"
+  ],
+  "porque": "Reportera con cloche burdeos, gafas redondas y credencial PRENSA en el sombrero, libreta en mano; se distingue del periodista1 (bajo, gabardina verde oliva y fedora) por silueta delgada, falda sastre azul petróleo y pelo rubio melena."
+ },
+ {
+  "id": "oficial",
+  "nombre": "Oficial de policía",
+  "complexion": "robusto",
+  "piel": "#e0b08a",
+  "camisa": "#243a5e",
+  "pantalon": "#1a2740",
+  "zapatos": "#141414",
+  "sombrero": "gorra_policia",
+  "colorSombrero": "#1f2d4a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#141414",
+  "peinado": "raya_lado",
+  "ropa": "uniforme",
+  "colorRopa2": "#1a2740",
+  "rasgos": [
+   "cejas",
+   "arrugas",
+   "barba_corta"
+  ],
+  "papel": "Agente uniformado",
+  "edad": 35,
+  "colorPelo": "#3a2a1a",
+  "accesorios": [
+   "placa",
+   "bigote_grueso"
+  ],
+  "colorAccesorio": "#d4af37",
+  "sexo": "h",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "serio",
+   "preocupado",
+   "cansado",
+   "sorpresa"
+  ],
+  "porque": "Uniforme azul marino con gorra de plato, placa dorada y bigote de cepillo lo identifican al instante como policía de calle, distinto del detective de gabardina y fedora por su gorra, su complexión robusta y su uniforme reglamentario."
+ },
+ {
+  "id": "marinero",
+  "nombre": "Marinero",
+  "complexion": "robusto",
+  "piel": "#c98d5e",
+  "camisa": "#2b3a55",
+  "pantalon": "#1f2a3d",
+  "zapatos": "#2a2118",
+  "sombrero": "gorro_marinero",
+  "colorSombrero": "#f2efe6",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#2a2118",
+  "peinado": "liso",
+  "ropa": "rayas",
+  "colorRopa2": "#e8e4d8",
+  "rasgos": [
+   "barba",
+   "cejas",
+   "arrugas",
+   "ojeras"
+  ],
+  "papel": "Tripulante en la búsqueda del barco Nellie",
+  "edad": 40,
+  "colorPelo": "#3a2a1a",
+  "accesorios": [
+   "bufanda",
+   "corbata"
+  ],
+  "colorAccesorio": "#8a2f2f",
+  "sexo": "h",
+  "objetoTipico": "mapa",
+  "expresionesTipicas": [
+   "pensativo",
+   "cansado",
+   "preocupado",
+   "alivio"
+  ],
+  "porque": "Marinero robusto con gorro blanco de marinero, jersey de rayas azul marino y bufanda roja al cuello, barba curtida y catalejo en mano: se reconoce al instante como tripulación y no se parece a ningún otro personaje."
+ },
+ {
+  "id": "trabajador",
+  "nombre": "Trabajador",
+  "complexion": "bajo",
+  "piel": "#c98a5e",
+  "camisa": "#6b5a3a",
+  "pantalon": "#4a3f2a",
+  "zapatos": "#2e2418",
+  "sombrero": "paja",
+  "colorSombrero": "#d9c48a",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#3a2a1a",
+  "peinado": "liso",
+  "ropa": "overol",
+  "colorRopa2": "#8a6a3f",
+  "rasgos": [
+   "barba_corta",
+   "cejas",
+   "arrugas",
+   "pecas"
+  ],
+  "papel": "Hombre que encuentra los restos",
+  "edad": 40,
+  "colorPelo": "#5a3a22",
+  "accesorios": [
+   "tirantes",
+   "bufanda"
+  ],
+  "colorAccesorio": "#7a3a2a",
+  "sexo": "h",
+  "objetoTipico": "pala",
+  "expresionesTipicas": [
+   "aterrado",
+   "sorpresa",
+   "asustado",
+   "gritando"
+  ],
+  "porque": "Overol remendado, sombrero de paja y pala al hombro: se reconoce al instante como jornalero del bosque, distinto del empleado de gasolinera por la complexion baja y el sombrero de paja."
+ },
+ {
+  "id": "cliente",
+  "nombre": "Cliente de la gasolinera",
+  "complexion": "delgado",
+  "piel": "#c9a882",
+  "camisa": "#5a4a3a",
+  "pantalon": "#3a352e",
+  "zapatos": "#241f1a",
+  "sombrero": "bombin",
+  "colorSombrero": "#2b2b30",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#241f1a",
+  "peinado": "raya_lado",
+  "ropa": "abrigo",
+  "colorRopa2": "#3f3a33",
+  "rasgos": [
+   "ojeras",
+   "barba_corta",
+   "cejas"
+  ],
+  "papel": "Hombre que paga con certificado de oro",
+  "edad": 35,
+  "colorPelo": "#3a2a1a",
+  "accesorios": [
+   "guantes",
+   "reloj_bolsillo",
+   "bufanda"
+  ],
+  "colorAccesorio": "#8a7a5a",
+  "sexo": "h",
+  "objetoTipico": "billetes",
+  "expresionesTipicas": [
+   "nervioso",
+   "preocupado",
+   "sospechoso",
+   "enojado"
+  ],
+  "porque": "Abrigo raído y bombín con guantes y reloj de bolsillo lo muestran como cliente apurado y evasivo que paga con oro, distinto del secuestrador (fedora) y del investigador (gabardina y placa)."
+ },
+ {
+  "id": "oficial1",
+  "nombre": "Oficial 1",
+  "complexion": "adulto",
+  "piel": "#c98d63",
+  "camisa": "#3a5a8a",
+  "pantalon": "#3a3f3a",
+  "zapatos": "#241c16",
+  "sombrero": "gorra_policia",
+  "colorSombrero": "#4a4438",
+  "vestido": null,
+  "bigote": "#2e2018",
+  "cinturon": "#2e2018",
+  "peinado": "rizado",
+  "ropa": "uniforme",
+  "colorRopa2": "#4a4438",
+  "rasgos": [
+   "cejas",
+   "arrugas"
+  ],
+  "papel": "Policía en vigilancia",
+  "edad": 40,
+  "colorPelo": "#c8a060",
+  "accesorios": [
+   "placa",
+   "corbata",
+   "guantes",
+   "bigote_fino"
+  ],
+  "colorAccesorio": "#b8912f",
+  "sexo": "h",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "pensativo",
+   "serio",
+   "sospechoso",
+   "sonrisa"
+  ],
+  "porque": "Policía de vigilancia con fedora y gabardina verde oliva, placa dorada y bigote grueso: se distingue del agente uniformado (gorra de plato y azul marino) y del investigador (gabardina marrón y entradas canosas) por su corpulencia y colores."
+ },
+ {
+  "id": "oficial2",
+  "nombre": "Oficial 2",
+  "complexion": "delgado",
+  "piel": "#e8c39a",
+  "camisa": "#243a5e",
+  "pantalon": "#2a3550",
+  "zapatos": "#1c1a18",
+  "sombrero": "gorra_policia",
+  "colorSombrero": "#2a3550",
+  "vestido": null,
+  "bigote": null,
+  "cinturon": "#1c1a18",
+  "peinado": "liso",
+  "ropa": "uniforme",
+  "colorRopa2": "#2a3550",
+  "rasgos": [
+   "cejas",
+   "ojeras",
+   "pecas"
+  ],
+  "papel": "Policía en vigilancia",
+  "edad": 35,
+  "colorPelo": "#c9a35c",
+  "accesorios": [
+   "placa",
+   "corbata",
+   "reloj_bolsillo"
+  ],
+  "colorAccesorio": "#c9a227",
+  "sexo": "h",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "decidido",
+   "preocupado",
+   "alivio",
+   "pensativo"
+  ],
+  "porque": "Policía delgado de gabardina verde oliva con gorra de plato azul marino, placa dorada y bigote fino rubio: se distingue del oficial robusto de uniforme azul y del investigador de fedora marrón."
+ },
+ {
+  "id": "policia",
+  "nombre": "Policía (detención)",
+  "complexion": "bajo",
+  "piel": "#e8b48c",
+  "camisa": "#1a2a4a",
+  "pantalon": "#1f2d4a",
+  "zapatos": "#1a1a1f",
+  "sombrero": "gorra_policia",
+  "colorSombrero": "#2b3a55",
+  "vestido": null,
+  "bigote": "#2b1d14",
+  "cinturon": "#1a1a1f",
+  "peinado": "liso",
+  "ropa": "uniforme",
+  "colorRopa2": "#1f2d4a",
+  "rasgos": [
+   "cejas",
+   "barba_corta",
+   "mejillas",
+   "gafas"
+  ],
+  "papel": "Agente que detiene a Hauptmann",
+  "edad": 30,
+  "colorPelo": "#1c1814",
+  "accesorios": [
+   "placa",
+   "guantes",
+   "bigote_grueso"
+  ],
+  "colorAccesorio": "#d4af37",
+  "sexo": "h",
+  "objetoTipico": "esposas",
+  "expresionesTipicas": [
+   "serio",
+   "decidido",
+   "sospechoso",
+   "picaro"
+  ],
+  "porque": "Uniforme azul con gorra de plato, placa dorada y esposas en la mano; fornido, joven y sin bigote, se distingue del oficial veterano (más viejo, bigote grueso) y del oficial2 (delgado, pelo rubio)."
+ },
+ {
+  "id": "detective",
+  "nombre": "Detective (epílogo)",
+  "complexion": "delgado",
+  "piel": "#e8c9a8",
+  "camisa": "#9aa0a6",
+  "pantalon": "#3a3344",
+  "zapatos": "#2b2420",
+  "sombrero": "bombin",
+  "colorSombrero": "#3d4a3a",
+  "vestido": null,
+  "bigote": "#a8a49a",
+  "cinturon": "#3a2f28",
+  "peinado": "raya_lado",
+  "ropa": "gabardina",
+  "colorRopa2": "#4a3f5c",
+  "rasgos": [
+   "gafas",
+   "arrugas",
+   "ojeras",
+   "cejas"
+  ],
+  "papel": "Detective que repasa el caso años después",
+  "edad": 50,
+  "colorPelo": "#1c1814",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo",
+   "bigote_grueso"
+  ],
+  "colorAccesorio": "#7a5a3a",
+  "sexo": "h",
+  "objetoTipico": "carpeta",
+  "expresionesTipicas": [
+   "pensativo",
+   "preocupado",
+   "serio",
+   "alivio"
+  ],
+  "porque": "Detective de epílogo reconocible por la gabardina ciruela y el fedora verde con gafas y arrugas, distinto del investigador robusto de gabardina marrón y del sospechoso de gabardina oscura."
+ },
+ {
+  "id": "asistente",
+  "nombre": "Asistente del detective",
+  "complexion": "delgado",
+  "piel": "#e8c9a8",
+  "camisa": "#5c6b4a",
+  "pantalon": "#3d4a3a",
+  "zapatos": "#2b1d14",
+  "sombrero": "pelo",
+  "colorSombrero": "#4a3020",
+  "vestido": "#5c6b4a",
+  "bigote": null,
+  "cinturon": null,
+  "peinado": "mono",
+  "ropa": "liso",
+  "colorRopa2": "#3d4a3a",
+  "rasgos": [
+   "gafas",
+   "cejas",
+   "mejillas"
+  ],
+  "papel": "Ayudante en el epílogo",
+  "edad": 30,
+  "colorPelo": "#4a3020",
+  "accesorios": [
+   "corbata",
+   "reloj_bolsillo",
+   "aretes"
+  ],
+  "colorAccesorio": "#7a2f3a",
+  "sexo": "m",
+  "objetoTipico": "libreta",
+  "expresionesTipicas": [
+   "pensativo",
+   "serio",
+   "sorpresa",
+   "confundido"
+  ],
+  "porque": "Traje sastre verde oliva con corbata burdeos, gafas y moño bajo: se reconoce como la ayudante que toma notas, distinta del detective de gabardina y de la periodista de melena."
+ }
+]
